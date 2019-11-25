@@ -1,0 +1,3628 @@
+[
+  {
+    "regionname": "武山县",
+    "regioncode": "620524",
+    "id": null,
+    "orgNames": []
+  },
+  {
+    "regionname": "张家川回族自治县",
+    "regioncode": "620525",
+    "id": null,
+    "orgNames": [
+      {
+        "regionname": "张家川镇",
+        "regioncode": "620525100",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "东关村",
+            "regioncode": "620525100201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "东街村",
+            "regioncode": "620525100202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西关村",
+            "regioncode": "620525100203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西街村",
+            "regioncode": "620525100204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西夭村",
+            "regioncode": "620525100205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "前山村",
+            "regioncode": "620525100206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "查湾村",
+            "regioncode": "620525100207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "赵川村",
+            "regioncode": "620525100208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "堡山村",
+            "regioncode": "620525100209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "杨上村",
+            "regioncode": "620525100210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "上川村",
+            "regioncode": "620525100211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "上磨村",
+            "regioncode": "620525100212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "刘家村",
+            "regioncode": "620525100213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "硖口村",
+            "regioncode": "620525100214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "崔家村",
+            "regioncode": "620525100215",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "下仁村",
+            "regioncode": "620525100216",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "杨川村",
+            "regioncode": "620525100217",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "沟口村",
+            "regioncode": "620525100218",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "背武村",
+            "regioncode": "620525100219",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "赵阳村",
+            "regioncode": "620525100220",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "南川村",
+            "regioncode": "620525100221",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "孟寺村",
+            "regioncode": "620525100222",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "瓦泉村",
+            "regioncode": "620525100223",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "袁川村",
+            "regioncode": "620525100224",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "崔湾村",
+            "regioncode": "620525100226",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "大堡村",
+            "regioncode": "620525100230",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "纳沟村",
+            "regioncode": "620525100234",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "杨店村",
+            "regioncode": "620525100235",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "园树村",
+            "regioncode": "620525100238",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "龙山镇",
+        "regioncode": "620525101",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "马黑曼村",
+            "regioncode": "620525101201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "郑家村",
+            "regioncode": "620525101202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "芦塬村",
+            "regioncode": "620525101203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "北河村",
+            "regioncode": "620525101204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "北街村",
+            "regioncode": "620525101205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "官泉村",
+            "regioncode": "620525101206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "南街村",
+            "regioncode": "620525101207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西门村",
+            "regioncode": "620525101208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "南梁村",
+            "regioncode": "620525101209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "树坡村",
+            "regioncode": "620525101210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "冯塬村",
+            "regioncode": "620525101211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西沟村",
+            "regioncode": "620525101212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西川村",
+            "regioncode": "620525101213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "汪堡村",
+            "regioncode": "620525101214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "榆树村",
+            "regioncode": "620525101215",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马河村",
+            "regioncode": "620525101216",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "连柯村",
+            "regioncode": "620525101217",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "四方村",
+            "regioncode": "620525101218",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "李山村",
+            "regioncode": "620525101219",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "韩川村",
+            "regioncode": "620525101220",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "恭门镇",
+        "regioncode": "620525102",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "西关村",
+            "regioncode": "620525102201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "天河村",
+            "regioncode": "620525102202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "麻山村",
+            "regioncode": "620525102203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "毛磨村",
+            "regioncode": "620525102204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "河北村",
+            "regioncode": "620525102205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "杨坡村",
+            "regioncode": "620525102206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "水池村",
+            "regioncode": "620525102207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "柳沟村",
+            "regioncode": "620525102208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "张窑村",
+            "regioncode": "620525102209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "麻崖村",
+            "regioncode": "620525102210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "灵台村",
+            "regioncode": "620525102211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "城子村",
+            "regioncode": "620525102212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "许湾村",
+            "regioncode": "620525102213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西坡村",
+            "regioncode": "620525102214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "梁湾村",
+            "regioncode": "620525102215",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "团结村",
+            "regioncode": "620525102216",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "付川村",
+            "regioncode": "620525102217",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "古土村",
+            "regioncode": "620525102218",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "河峪村",
+            "regioncode": "620525102219",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "恭门村",
+            "regioncode": "620525102220",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "海河村",
+            "regioncode": "620525102221",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "毛山村",
+            "regioncode": "620525102222",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "阴山村",
+            "regioncode": "620525102223",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "张巴村",
+            "regioncode": "620525102224",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "仁湾村",
+            "regioncode": "620525102225",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "袁河村",
+            "regioncode": "620525102226",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "袁家村",
+            "regioncode": "620525102227",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "马鹿镇",
+        "regioncode": "620525103",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "康王村",
+            "regioncode": "620525103201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "草川村",
+            "regioncode": "620525103202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "长宁村",
+            "regioncode": "620525103203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "韩河村",
+            "regioncode": "620525103204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "寺湾村",
+            "regioncode": "620525103205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "堡梁村",
+            "regioncode": "620525103206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "大滩村",
+            "regioncode": "620525103207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "龙口村",
+            "regioncode": "620525103208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "牌楼村",
+            "regioncode": "620525103209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "陡崖村",
+            "regioncode": "620525103210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "白杨村",
+            "regioncode": "620525103211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "林峰村",
+            "regioncode": "620525103212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "宝坪村",
+            "regioncode": "620525103213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "石庄科村",
+            "regioncode": "620525103214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "花园村",
+            "regioncode": "620525103215",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "金川村",
+            "regioncode": "620525103216",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "梁山镇",
+        "regioncode": "620525104",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "梁山村",
+            "regioncode": "620525104201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "五方村",
+            "regioncode": "620525104202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "斜头村",
+            "regioncode": "620525104203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "唐刘村",
+            "regioncode": "620525104204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "高营村",
+            "regioncode": "620525104205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "杨渠村",
+            "regioncode": "620525104206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "杨崖村",
+            "regioncode": "620525104208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "吕湾村",
+            "regioncode": "620525104209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "丹麻村",
+            "regioncode": "620525104210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "阳洼村",
+            "regioncode": "620525104211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "岳山村",
+            "regioncode": "620525104212",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "马关镇",
+        "regioncode": "620525105",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "石川村",
+            "regioncode": "620525105201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西山村",
+            "regioncode": "620525105202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "新义村",
+            "regioncode": "620525105203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "东庄村",
+            "regioncode": "620525105204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "草湾村",
+            "regioncode": "620525105205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "黄花村",
+            "regioncode": "620525105206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "上河村",
+            "regioncode": "620525105207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "八杜村",
+            "regioncode": "620525105208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西台村",
+            "regioncode": "620525105209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西庄村",
+            "regioncode": "620525105210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "上豆村",
+            "regioncode": "620525105211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "小庄村",
+            "regioncode": "620525105214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "庙湾村",
+            "regioncode": "620525105215",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "赵沟村",
+            "regioncode": "620525105216",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马堡村",
+            "regioncode": "620525105218",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "东山村",
+            "regioncode": "620525105219",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "韦沟村",
+            "regioncode": "620525105220",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "刘堡镇",
+        "regioncode": "620525106",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "刘堡村",
+            "regioncode": "620525106201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "窑儿村",
+            "regioncode": "620525106202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "罗湾村",
+            "regioncode": "620525106203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "王家村",
+            "regioncode": "620525106204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "芦科村",
+            "regioncode": "620525106205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "五星村",
+            "regioncode": "620525106206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "郑沟村",
+            "regioncode": "620525106207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "赵湾村",
+            "regioncode": "620525106208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "峡里村",
+            "regioncode": "620525106209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "丰银村",
+            "regioncode": "620525106210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "王山村",
+            "regioncode": "620525106211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "小湾村",
+            "regioncode": "620525106212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "李山村",
+            "regioncode": "620525106213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "梨园村",
+            "regioncode": "620525106214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "董家村",
+            "regioncode": "620525106215",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "米家村",
+            "regioncode": "620525106216",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "杜家村",
+            "regioncode": "620525106217",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "高家村",
+            "regioncode": "620525106218",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "胡川镇",
+        "regioncode": "620525107",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "张堡村",
+            "regioncode": "620525107201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "潘峪村",
+            "regioncode": "620525107202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "刘塬村",
+            "regioncode": "620525107203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "祁沟村",
+            "regioncode": "620525107204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "窑上村",
+            "regioncode": "620525107205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "柳湾村",
+            "regioncode": "620525107206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "胡川村",
+            "regioncode": "620525107207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "宁马村",
+            "regioncode": "620525107208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "仓下村",
+            "regioncode": "620525107209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "蒲家村",
+            "regioncode": "620525107210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "夏堡村",
+            "regioncode": "620525107211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "王安村",
+            "regioncode": "620525107212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "前梁村",
+            "regioncode": "620525107213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "阳山村",
+            "regioncode": "620525107214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "深坷村",
+            "regioncode": "620525107215",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "后湾村",
+            "regioncode": "620525107216",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "大阳镇",
+        "regioncode": "620525108",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "小杨村",
+            "regioncode": "620525108201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "大阳村",
+            "regioncode": "620525108202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "南山村",
+            "regioncode": "620525108203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "刘沟村",
+            "regioncode": "620525108204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "中庄村",
+            "regioncode": "620525108205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "豁岘村",
+            "regioncode": "620525108206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "汪洋村",
+            "regioncode": "620525108207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "阳沟村",
+            "regioncode": "620525108208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "候吴村",
+            "regioncode": "620525108209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "梁堡村",
+            "regioncode": "620525108210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "河李村",
+            "regioncode": "620525108211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "闫庄村",
+            "regioncode": "620525108212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "太原村",
+            "regioncode": "620525108213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "刘山村",
+            "regioncode": "620525108214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "下李村",
+            "regioncode": "620525108215",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "阳湾村",
+            "regioncode": "620525108216",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "双庙村",
+            "regioncode": "620525108217",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "东沟村",
+            "regioncode": "620525108218",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "下渠村",
+            "regioncode": "620525108219",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "高沟村",
+            "regioncode": "620525108220",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "水滩村",
+            "regioncode": "620525108221",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "吴家村",
+            "regioncode": "620525108222",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "寨子村",
+            "regioncode": "620525108223",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "陈阳村",
+            "regioncode": "620525108224",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "川王镇",
+        "regioncode": "620525109",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "小河村",
+            "regioncode": "620525109201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "峡口村",
+            "regioncode": "620525109202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "铁洼村",
+            "regioncode": "620525109203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "海湾村",
+            "regioncode": "620525109204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "哈沟村",
+            "regioncode": "620525109205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "冯家村",
+            "regioncode": "620525109206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "何湾村",
+            "regioncode": "620525109207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "关河村",
+            "regioncode": "620525109208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "松树湾村",
+            "regioncode": "620525109209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "川王村",
+            "regioncode": "620525109210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "大庄村",
+            "regioncode": "620525109211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "范湾村",
+            "regioncode": "620525109212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马达村",
+            "regioncode": "620525109213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "毛寨村",
+            "regioncode": "620525109214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西崖村",
+            "regioncode": "620525109215",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "王家沟村",
+            "regioncode": "620525109216",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "张棉乡",
+        "regioncode": "620525202",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "张棉村",
+            "regioncode": "620525202201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "田湾村",
+            "regioncode": "620525202202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "庙川村",
+            "regioncode": "620525202203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "和平村",
+            "regioncode": "620525202204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "上蒋村",
+            "regioncode": "620525202205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "东峡村",
+            "regioncode": "620525202206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "周家村",
+            "regioncode": "620525202207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "喜湾村",
+            "regioncode": "620525202208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马夭村",
+            "regioncode": "620525202209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "盘山村",
+            "regioncode": "620525202210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "先马村",
+            "regioncode": "620525202211",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "木河乡",
+        "regioncode": "620525204",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "店子村",
+            "regioncode": "620525204200",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "下庞村",
+            "regioncode": "620525204201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "毛家村",
+            "regioncode": "620525204203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "庄河村",
+            "regioncode": "620525204204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "李沟村",
+            "regioncode": "620525204205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "坪王村",
+            "regioncode": "620525204206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "桃园村",
+            "regioncode": "620525204207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "高山村",
+            "regioncode": "620525204208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马坪村",
+            "regioncode": "620525204209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "楸木村",
+            "regioncode": "620525204211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "杜渠村",
+            "regioncode": "620525204213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "上渠村",
+            "regioncode": "620525204214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "八卜村",
+            "regioncode": "620525204215",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "连伍乡",
+        "regioncode": "620525209",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "高庄村",
+            "regioncode": "620525209201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "黄家村",
+            "regioncode": "620525209202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "张家村",
+            "regioncode": "620525209203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "中心村",
+            "regioncode": "620525209204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "中渠村",
+            "regioncode": "620525209205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "贠家村",
+            "regioncode": "620525209206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "连五村",
+            "regioncode": "620525209207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马咀村",
+            "regioncode": "620525209208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "腰庄村",
+            "regioncode": "620525209209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "四合村",
+            "regioncode": "620525209210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "陈家村",
+            "regioncode": "620525209211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "兰家村",
+            "regioncode": "620525209212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "三合村",
+            "regioncode": "620525209213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "李家村",
+            "regioncode": "620525209214",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "平安乡",
+        "regioncode": "620525213",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "磨马村",
+            "regioncode": "620525213201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马源村",
+            "regioncode": "620525213202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "铁固村",
+            "regioncode": "620525213203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "包梁村",
+            "regioncode": "620525213205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "大湾村",
+            "regioncode": "620525213206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "梨树村",
+            "regioncode": "620525213207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "新庄村",
+            "regioncode": "620525213208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "水泉村",
+            "regioncode": "620525213210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "平安村",
+            "regioncode": "620525213211",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "阎家乡",
+        "regioncode": "620525214",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "闫家村",
+            "regioncode": "620525214201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "朝阳村",
+            "regioncode": "620525214202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "王坪村",
+            "regioncode": "620525214203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "丁河村",
+            "regioncode": "620525214204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "付堡村",
+            "regioncode": "620525214205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "后山村",
+            "regioncode": "620525214206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "三友村",
+            "regioncode": "620525214207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "大场村",
+            "regioncode": "620525214208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "草川梁村",
+            "regioncode": "620525214209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "神树村",
+            "regioncode": "620525214210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "花山村",
+            "regioncode": "620525214211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "车古村",
+            "regioncode": "620525214212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "陈庙村",
+            "regioncode": "620525214213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "操场村",
+            "regioncode": "620525214214",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "马鹿林场",
+        "regioncode": "620525300",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "马鹿林场",
+            "regioncode": "620525300001",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马鹿林场2",
+            "regioncode": "620525300002",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马鹿林场3",
+            "regioncode": "620525300003",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马鹿林场4",
+            "regioncode": "620525300004",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马鹿林场5",
+            "regioncode": "620525300005",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马鹿林场6",
+            "regioncode": "620525300006",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马鹿林场7",
+            "regioncode": "620525300007",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马鹿林场8",
+            "regioncode": "620525300008",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马鹿林场9",
+            "regioncode": "620525300009",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马鹿林场10",
+            "regioncode": "620525300010",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "关山林场",
+        "regioncode": "620525301",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "关山林场",
+            "regioncode": "620525301001",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "关山林场2",
+            "regioncode": "620525301002",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "关山林场3",
+            "regioncode": "620525301003",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "五星牧场",
+        "regioncode": "620525302",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "五星牧场",
+            "regioncode": "620525302000",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "五星牧场",
+            "regioncode": "620525302001",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "白石咀牧场",
+        "regioncode": "620525303",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "白石咀牧场",
+            "regioncode": "620525303000",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "白石咀牧场",
+            "regioncode": "620525303001",
+            "id": null,
+            "groups": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "regionname": "市辖区",
+    "regioncode": "620501",
+    "id": null,
+    "orgNames": []
+  },
+  {
+    "regionname": "秦州区",
+    "regioncode": "620502",
+    "id": null,
+    "orgNames": []
+  },
+  {
+    "regionname": "麦积区",
+    "regioncode": "620503",
+    "id": null,
+    "orgNames": []
+  },
+  {
+    "regionname": "清水县",
+    "regioncode": "620521",
+    "id": null,
+    "orgNames": [
+      {
+        "regionname": "清水县",
+        "regioncode": "620521000000",
+        "id": null,
+        "villages": []
+      }
+    ]
+  },
+  {
+    "regionname": "秦安县",
+    "regioncode": "620522",
+    "id": null,
+    "orgNames": [
+      {
+        "regionname": "秦安县",
+        "regioncode": "620522000000",
+        "id": null,
+        "villages": []
+      }
+    ]
+  },
+  {
+    "regionname": "甘谷县",
+    "regioncode": "620523",
+    "id": null,
+    "orgNames": []
+  },
+  {
+    "regionname": "清水县",
+    "regioncode": "620521",
+    "id": null,
+    "orgNames": [
+      {
+        "regionname": "清水县",
+        "regioncode": "620521000000",
+        "id": null,
+        "villages": []
+      }
+    ]
+  },
+  {
+    "regionname": "秦安县",
+    "regioncode": "620522",
+    "id": null,
+    "orgNames": [
+      {
+        "regionname": "秦安县",
+        "regioncode": "620522000000",
+        "id": null,
+        "villages": []
+      }
+    ]
+  },
+  {
+    "regionname": "张家川回族自治县",
+    "regioncode": "620525",
+    "id": null,
+    "orgNames": [
+      {
+        "regionname": "张家川镇",
+        "regioncode": "620525100",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "东关村",
+            "regioncode": "620525100201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "东街村",
+            "regioncode": "620525100202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西关村",
+            "regioncode": "620525100203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西街村",
+            "regioncode": "620525100204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西夭村",
+            "regioncode": "620525100205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "前山村",
+            "regioncode": "620525100206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "查湾村",
+            "regioncode": "620525100207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "赵川村",
+            "regioncode": "620525100208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "堡山村",
+            "regioncode": "620525100209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "杨上村",
+            "regioncode": "620525100210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "上川村",
+            "regioncode": "620525100211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "上磨村",
+            "regioncode": "620525100212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "刘家村",
+            "regioncode": "620525100213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "硖口村",
+            "regioncode": "620525100214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "崔家村",
+            "regioncode": "620525100215",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "下仁村",
+            "regioncode": "620525100216",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "杨川村",
+            "regioncode": "620525100217",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "沟口村",
+            "regioncode": "620525100218",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "背武村",
+            "regioncode": "620525100219",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "赵阳村",
+            "regioncode": "620525100220",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "南川村",
+            "regioncode": "620525100221",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "孟寺村",
+            "regioncode": "620525100222",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "瓦泉村",
+            "regioncode": "620525100223",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "袁川村",
+            "regioncode": "620525100224",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "崔湾村",
+            "regioncode": "620525100226",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "大堡村",
+            "regioncode": "620525100230",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "纳沟村",
+            "regioncode": "620525100234",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "杨店村",
+            "regioncode": "620525100235",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "园树村",
+            "regioncode": "620525100238",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "龙山镇",
+        "regioncode": "620525101",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "马黑曼村",
+            "regioncode": "620525101201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "郑家村",
+            "regioncode": "620525101202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "芦塬村",
+            "regioncode": "620525101203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "北河村",
+            "regioncode": "620525101204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "北街村",
+            "regioncode": "620525101205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "官泉村",
+            "regioncode": "620525101206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "南街村",
+            "regioncode": "620525101207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西门村",
+            "regioncode": "620525101208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "南梁村",
+            "regioncode": "620525101209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "树坡村",
+            "regioncode": "620525101210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "冯塬村",
+            "regioncode": "620525101211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西沟村",
+            "regioncode": "620525101212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西川村",
+            "regioncode": "620525101213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "汪堡村",
+            "regioncode": "620525101214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "榆树村",
+            "regioncode": "620525101215",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马河村",
+            "regioncode": "620525101216",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "连柯村",
+            "regioncode": "620525101217",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "四方村",
+            "regioncode": "620525101218",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "李山村",
+            "regioncode": "620525101219",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "韩川村",
+            "regioncode": "620525101220",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "恭门镇",
+        "regioncode": "620525102",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "西关村",
+            "regioncode": "620525102201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "天河村",
+            "regioncode": "620525102202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "麻山村",
+            "regioncode": "620525102203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "毛磨村",
+            "regioncode": "620525102204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "河北村",
+            "regioncode": "620525102205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "杨坡村",
+            "regioncode": "620525102206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "水池村",
+            "regioncode": "620525102207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "柳沟村",
+            "regioncode": "620525102208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "张窑村",
+            "regioncode": "620525102209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "麻崖村",
+            "regioncode": "620525102210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "灵台村",
+            "regioncode": "620525102211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "城子村",
+            "regioncode": "620525102212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "许湾村",
+            "regioncode": "620525102213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西坡村",
+            "regioncode": "620525102214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "梁湾村",
+            "regioncode": "620525102215",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "团结村",
+            "regioncode": "620525102216",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "付川村",
+            "regioncode": "620525102217",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "古土村",
+            "regioncode": "620525102218",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "河峪村",
+            "regioncode": "620525102219",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "恭门村",
+            "regioncode": "620525102220",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "海河村",
+            "regioncode": "620525102221",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "毛山村",
+            "regioncode": "620525102222",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "阴山村",
+            "regioncode": "620525102223",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "张巴村",
+            "regioncode": "620525102224",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "仁湾村",
+            "regioncode": "620525102225",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "袁河村",
+            "regioncode": "620525102226",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "袁家村",
+            "regioncode": "620525102227",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "马鹿镇",
+        "regioncode": "620525103",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "康王村",
+            "regioncode": "620525103201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "草川村",
+            "regioncode": "620525103202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "长宁村",
+            "regioncode": "620525103203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "韩河村",
+            "regioncode": "620525103204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "寺湾村",
+            "regioncode": "620525103205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "堡梁村",
+            "regioncode": "620525103206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "大滩村",
+            "regioncode": "620525103207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "龙口村",
+            "regioncode": "620525103208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "牌楼村",
+            "regioncode": "620525103209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "陡崖村",
+            "regioncode": "620525103210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "白杨村",
+            "regioncode": "620525103211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "林峰村",
+            "regioncode": "620525103212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "宝坪村",
+            "regioncode": "620525103213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "石庄科村",
+            "regioncode": "620525103214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "花园村",
+            "regioncode": "620525103215",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "金川村",
+            "regioncode": "620525103216",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "梁山镇",
+        "regioncode": "620525104",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "梁山村",
+            "regioncode": "620525104201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "五方村",
+            "regioncode": "620525104202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "斜头村",
+            "regioncode": "620525104203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "唐刘村",
+            "regioncode": "620525104204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "高营村",
+            "regioncode": "620525104205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "杨渠村",
+            "regioncode": "620525104206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "杨崖村",
+            "regioncode": "620525104208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "吕湾村",
+            "regioncode": "620525104209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "丹麻村",
+            "regioncode": "620525104210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "阳洼村",
+            "regioncode": "620525104211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "岳山村",
+            "regioncode": "620525104212",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "马关镇",
+        "regioncode": "620525105",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "石川村",
+            "regioncode": "620525105201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西山村",
+            "regioncode": "620525105202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "新义村",
+            "regioncode": "620525105203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "东庄村",
+            "regioncode": "620525105204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "草湾村",
+            "regioncode": "620525105205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "黄花村",
+            "regioncode": "620525105206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "上河村",
+            "regioncode": "620525105207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "八杜村",
+            "regioncode": "620525105208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西台村",
+            "regioncode": "620525105209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西庄村",
+            "regioncode": "620525105210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "上豆村",
+            "regioncode": "620525105211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "小庄村",
+            "regioncode": "620525105214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "庙湾村",
+            "regioncode": "620525105215",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "赵沟村",
+            "regioncode": "620525105216",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马堡村",
+            "regioncode": "620525105218",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "东山村",
+            "regioncode": "620525105219",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "韦沟村",
+            "regioncode": "620525105220",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "刘堡镇",
+        "regioncode": "620525106",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "刘堡村",
+            "regioncode": "620525106201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "窑儿村",
+            "regioncode": "620525106202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "罗湾村",
+            "regioncode": "620525106203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "王家村",
+            "regioncode": "620525106204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "芦科村",
+            "regioncode": "620525106205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "五星村",
+            "regioncode": "620525106206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "郑沟村",
+            "regioncode": "620525106207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "赵湾村",
+            "regioncode": "620525106208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "峡里村",
+            "regioncode": "620525106209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "丰银村",
+            "regioncode": "620525106210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "王山村",
+            "regioncode": "620525106211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "小湾村",
+            "regioncode": "620525106212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "李山村",
+            "regioncode": "620525106213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "梨园村",
+            "regioncode": "620525106214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "董家村",
+            "regioncode": "620525106215",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "米家村",
+            "regioncode": "620525106216",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "杜家村",
+            "regioncode": "620525106217",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "高家村",
+            "regioncode": "620525106218",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "胡川镇",
+        "regioncode": "620525107",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "张堡村",
+            "regioncode": "620525107201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "潘峪村",
+            "regioncode": "620525107202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "刘塬村",
+            "regioncode": "620525107203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "祁沟村",
+            "regioncode": "620525107204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "窑上村",
+            "regioncode": "620525107205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "柳湾村",
+            "regioncode": "620525107206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "胡川村",
+            "regioncode": "620525107207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "宁马村",
+            "regioncode": "620525107208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "仓下村",
+            "regioncode": "620525107209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "蒲家村",
+            "regioncode": "620525107210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "夏堡村",
+            "regioncode": "620525107211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "王安村",
+            "regioncode": "620525107212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "前梁村",
+            "regioncode": "620525107213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "阳山村",
+            "regioncode": "620525107214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "深坷村",
+            "regioncode": "620525107215",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "后湾村",
+            "regioncode": "620525107216",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "大阳镇",
+        "regioncode": "620525108",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "小杨村",
+            "regioncode": "620525108201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "大阳村",
+            "regioncode": "620525108202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "南山村",
+            "regioncode": "620525108203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "刘沟村",
+            "regioncode": "620525108204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "中庄村",
+            "regioncode": "620525108205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "豁岘村",
+            "regioncode": "620525108206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "汪洋村",
+            "regioncode": "620525108207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "阳沟村",
+            "regioncode": "620525108208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "候吴村",
+            "regioncode": "620525108209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "梁堡村",
+            "regioncode": "620525108210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "河李村",
+            "regioncode": "620525108211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "闫庄村",
+            "regioncode": "620525108212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "太原村",
+            "regioncode": "620525108213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "刘山村",
+            "regioncode": "620525108214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "下李村",
+            "regioncode": "620525108215",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "阳湾村",
+            "regioncode": "620525108216",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "双庙村",
+            "regioncode": "620525108217",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "东沟村",
+            "regioncode": "620525108218",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "下渠村",
+            "regioncode": "620525108219",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "高沟村",
+            "regioncode": "620525108220",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "水滩村",
+            "regioncode": "620525108221",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "吴家村",
+            "regioncode": "620525108222",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "寨子村",
+            "regioncode": "620525108223",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "陈阳村",
+            "regioncode": "620525108224",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "川王镇",
+        "regioncode": "620525109",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "小河村",
+            "regioncode": "620525109201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "峡口村",
+            "regioncode": "620525109202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "铁洼村",
+            "regioncode": "620525109203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "海湾村",
+            "regioncode": "620525109204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "哈沟村",
+            "regioncode": "620525109205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "冯家村",
+            "regioncode": "620525109206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "何湾村",
+            "regioncode": "620525109207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "关河村",
+            "regioncode": "620525109208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "松树湾村",
+            "regioncode": "620525109209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "川王村",
+            "regioncode": "620525109210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "大庄村",
+            "regioncode": "620525109211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "范湾村",
+            "regioncode": "620525109212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马达村",
+            "regioncode": "620525109213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "毛寨村",
+            "regioncode": "620525109214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "西崖村",
+            "regioncode": "620525109215",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "王家沟村",
+            "regioncode": "620525109216",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "张棉乡",
+        "regioncode": "620525202",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "张棉村",
+            "regioncode": "620525202201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "田湾村",
+            "regioncode": "620525202202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "庙川村",
+            "regioncode": "620525202203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "和平村",
+            "regioncode": "620525202204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "上蒋村",
+            "regioncode": "620525202205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "东峡村",
+            "regioncode": "620525202206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "周家村",
+            "regioncode": "620525202207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "喜湾村",
+            "regioncode": "620525202208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马夭村",
+            "regioncode": "620525202209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "盘山村",
+            "regioncode": "620525202210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "先马村",
+            "regioncode": "620525202211",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "木河乡",
+        "regioncode": "620525204",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "店子村",
+            "regioncode": "620525204200",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "下庞村",
+            "regioncode": "620525204201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "毛家村",
+            "regioncode": "620525204203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "庄河村",
+            "regioncode": "620525204204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "李沟村",
+            "regioncode": "620525204205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "坪王村",
+            "regioncode": "620525204206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "桃园村",
+            "regioncode": "620525204207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "高山村",
+            "regioncode": "620525204208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马坪村",
+            "regioncode": "620525204209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "楸木村",
+            "regioncode": "620525204211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "杜渠村",
+            "regioncode": "620525204213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "上渠村",
+            "regioncode": "620525204214",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "八卜村",
+            "regioncode": "620525204215",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "连伍乡",
+        "regioncode": "620525209",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "高庄村",
+            "regioncode": "620525209201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "黄家村",
+            "regioncode": "620525209202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "张家村",
+            "regioncode": "620525209203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "中心村",
+            "regioncode": "620525209204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "中渠村",
+            "regioncode": "620525209205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "贠家村",
+            "regioncode": "620525209206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "连五村",
+            "regioncode": "620525209207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马咀村",
+            "regioncode": "620525209208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "腰庄村",
+            "regioncode": "620525209209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "四合村",
+            "regioncode": "620525209210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "陈家村",
+            "regioncode": "620525209211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "兰家村",
+            "regioncode": "620525209212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "三合村",
+            "regioncode": "620525209213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "李家村",
+            "regioncode": "620525209214",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "平安乡",
+        "regioncode": "620525213",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "磨马村",
+            "regioncode": "620525213201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马源村",
+            "regioncode": "620525213202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "铁固村",
+            "regioncode": "620525213203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "包梁村",
+            "regioncode": "620525213205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "大湾村",
+            "regioncode": "620525213206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "梨树村",
+            "regioncode": "620525213207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "新庄村",
+            "regioncode": "620525213208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "水泉村",
+            "regioncode": "620525213210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "平安村",
+            "regioncode": "620525213211",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "阎家乡",
+        "regioncode": "620525214",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "闫家村",
+            "regioncode": "620525214201",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "朝阳村",
+            "regioncode": "620525214202",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "王坪村",
+            "regioncode": "620525214203",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "丁河村",
+            "regioncode": "620525214204",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "付堡村",
+            "regioncode": "620525214205",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "后山村",
+            "regioncode": "620525214206",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "三友村",
+            "regioncode": "620525214207",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "大场村",
+            "regioncode": "620525214208",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "草川梁村",
+            "regioncode": "620525214209",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "神树村",
+            "regioncode": "620525214210",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "花山村",
+            "regioncode": "620525214211",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "车古村",
+            "regioncode": "620525214212",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "陈庙村",
+            "regioncode": "620525214213",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "操场村",
+            "regioncode": "620525214214",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "马鹿林场",
+        "regioncode": "620525300",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "马鹿林场",
+            "regioncode": "620525300001",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马鹿林场2",
+            "regioncode": "620525300002",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马鹿林场3",
+            "regioncode": "620525300003",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马鹿林场4",
+            "regioncode": "620525300004",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马鹿林场5",
+            "regioncode": "620525300005",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马鹿林场6",
+            "regioncode": "620525300006",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马鹿林场7",
+            "regioncode": "620525300007",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马鹿林场8",
+            "regioncode": "620525300008",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马鹿林场9",
+            "regioncode": "620525300009",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "马鹿林场10",
+            "regioncode": "620525300010",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "关山林场",
+        "regioncode": "620525301",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "关山林场",
+            "regioncode": "620525301001",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "关山林场2",
+            "regioncode": "620525301002",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "关山林场3",
+            "regioncode": "620525301003",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "五星牧场",
+        "regioncode": "620525302",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "五星牧场",
+            "regioncode": "620525302000",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "五星牧场",
+            "regioncode": "620525302001",
+            "id": null,
+            "groups": []
+          }
+        ]
+      },
+      {
+        "regionname": "白石咀牧场",
+        "regioncode": "620525303",
+        "id": null,
+        "villages": [
+          {
+            "regionname": "白石咀牧场",
+            "regioncode": "620525303000",
+            "id": null,
+            "groups": []
+          },
+          {
+            "regionname": "白石咀牧场",
+            "regioncode": "620525303001",
+            "id": null,
+            "groups": []
+          }
+        ]
+      }
+    ]
+  }
+]

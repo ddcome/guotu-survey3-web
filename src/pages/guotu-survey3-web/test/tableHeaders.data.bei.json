@@ -1,0 +1,4197 @@
+{
+  "success": "true",
+  "data": [
+    {
+      "tableName": "部分细化地类面积汇总表",
+      "value": "BFXHHZ",
+      "headers": [
+        {
+          "label": "行政区域",
+          "id": "1",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "名称",
+              "id": "2",
+              "prop": "xzqmc",
+              "subHeaders": []
+            },
+            {
+              "label": "代码",
+              "id": "3",
+              "prop": "xzqdm",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "科教文卫用地",
+          "id": "4",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "高教用地",
+              "id": "5",
+              "prop": "bM08H2A",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "公园与绿地",
+          "id": "6",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "广场用地",
+              "id": "7",
+              "prop": "bM0810A",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "坑塘水面",
+          "id": "8",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "养殖坑塘",
+              "id": "9",
+              "prop": "bM1104A",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "沟渠",
+          "id": "10",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "干渠",
+              "id": "11",
+              "prop": "bM1107A",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "城镇村及工矿用地",
+          "id": "12",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "合计",
+              "id": "13",
+              "prop": "hj",
+              "subHeaders": []
+            },
+            {
+              "label": "城市独立工业仓储用地",
+              "id": "14",
+              "prop": "bM201A",
+              "subHeaders": []
+            },
+            {
+              "label": "建制镇独立工业仓储用地",
+              "id": "15",
+              "prop": "bM202A",
+              "subHeaders": []
+            },
+            {
+              "label": "村庄独立工业仓储用地",
+              "id": "16",
+              "prop": "bM203A",
+              "subHeaders": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "城镇村及工矿用地面积汇总表",
+      "value": "CZCGKYDHZ",
+      "headers": [
+        {
+          "label": "行政区域",
+          "id": 1,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "名称",
+              "id": 2,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "代码",
+              "id": 3,
+              "prop": "",
+              "subHeaders": [
+              ]
+            }
+          ]
+        },
+        {
+          "label": "城镇村及工矿用地（20）",
+          "id": 4,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "合计",
+              "id": 5,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "耕地（01）",
+              "id": 6,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 7,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "水田（0101）",
+                  "id": 8,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "水浇地（0102）",
+                  "id": 9,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "旱地（0103）",
+                  "id": 10,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "园地（02）",
+              "id": 11,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 12,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "果园（0201）",
+                  "id": 13,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "茶园（0202）",
+                  "id": 14,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "橡胶园（0203）",
+                  "id": 15,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "其他园地（0204）",
+                  "id": 16,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "林地（03)",
+              "id": 17,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 18,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "乔木林地（0301）",
+                  "id": 19,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "竹林地（0302）",
+                  "id": 20,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "红树林地（0303）",
+                  "id": 21,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "森林沼泽（0304）",
+                  "id": 22,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "灌木林地（0305）",
+                  "id": 23,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "灌丛沼泽（0306）",
+                  "id": 24,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "其他林地（0307）",
+                  "id": 25,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "草地（04）",
+              "id": 26,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 27,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "天然牧草地（040",
+                  "id": 28,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沼泽草地（0402）",
+                  "id": 29,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "人工牧草地（040",
+                  "id": 30,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "其他草地（0404）",
+                  "id": 31,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "商服用地（05）",
+              "id": 32,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "工矿仓储用地（06）",
+              "id": 33,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 34,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "工业仓储用地（0",
+                  "id": 35,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "采矿用地（0602）",
+                  "id": 36,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "盐田（0603）",
+                  "id": 37,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "住宅用地（07）",
+              "id": 38,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 39,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "城镇住宅用地（0",
+                  "id": 40,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "农村宅基地（070",
+                  "id": 41,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "公共管理与公共服务用地（08）",
+              "id": 42,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 43,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "机关团体新闻出版",
+                  "id": 44,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "科教文卫用地（0",
+                  "id": 45,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "公用设施用地（0",
+                  "id": 46,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "公园与绿地（081",
+                  "id": 47,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "特殊用地（09）",
+              "id": 48,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "交通运输用地（10）",
+              "id": 49,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 50,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "铁路用地（1001）",
+                  "id": 51,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "轨道交通用地（1",
+                  "id": 52,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "公路用地（1003）",
+                  "id": 53,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "城镇村道路用地",
+                  "id": 54,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "交通服务场站用地",
+                  "id": 55,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "农村道路（1006）",
+                  "id": 56,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "机场用地（1007）",
+                  "id": 57,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "港口码头用地（1",
+                  "id": 58,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "管道运输用地（1",
+                  "id": 59,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "水域及水利设施用地（11）",
+              "id": 60,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 61,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "河流水面（1101）",
+                  "id": 62,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "湖泊水面（1102）",
+                  "id": 63,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "水库水面（1103）",
+                  "id": 64,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "坑塘水面（1104）",
+                  "id": 65,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沿海滩涂（1105）",
+                  "id": 66,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "内陆滩涂（1106）",
+                  "id": 67,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沟渠（1107）",
+                  "id": 68,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沼泽地（1108）",
+                  "id": 69,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "水工建筑用地（1",
+                  "id": 70,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "冰川及永久积雪",
+                  "id": 71,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "其他土地（12）",
+              "id": 72,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 73,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "空闲地（1201）",
+                  "id": 74,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "设施农用地（120",
+                  "id": 75,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "田坎（1203）",
+                  "id": 76,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "盐碱地（1204）",
+                  "id": 77,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沙地（1205）",
+                  "id": 78,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "裸土地（1206）",
+                  "id": 79,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "裸岩石砾地（120",
+                  "id": 80,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "城市（201）",
+          "id": 81,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "合计",
+              "id": 82,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "耕地（01）",
+              "id": 83,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 84,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "水田（0101）",
+                  "id": 85,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "水浇地（0102）",
+                  "id": 86,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "旱地（0103）",
+                  "id": 87,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "园地（02）",
+              "id": 88,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 89,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "果园（0201）",
+                  "id": 90,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "茶园（0202）",
+                  "id": 91,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "橡胶园（0203）",
+                  "id": 92,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "其他园地（0204）",
+                  "id": 93,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "林地（03)",
+              "id": 94,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 95,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "乔木林地（0301）",
+                  "id": 96,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "竹林地（0302）",
+                  "id": 97,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "红树林地（0303）",
+                  "id": 98,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "森林沼泽（0304）",
+                  "id": 99,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "灌木林地（0305）",
+                  "id": 100,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "灌丛沼泽（0306）",
+                  "id": 101,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "其他林地（0307）",
+                  "id": 102,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "草地（04）",
+              "id": 103,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 104,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "天然牧草地（040",
+                  "id": 105,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沼泽草地（0402）",
+                  "id": 106,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "人工牧草地（040",
+                  "id": 107,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "其他草地（0404）",
+                  "id": 108,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "商服用地（05）",
+              "id": 109,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "工矿仓储用地（06）",
+              "id": 110,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 111,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "工业仓储用地（0",
+                  "id": 112,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "采矿用地（0602）",
+                  "id": 113,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "盐田（0603）",
+                  "id": 114,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "住宅用地（07）",
+              "id": 115,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 116,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "城镇住宅用地（0",
+                  "id": 117,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "农村宅基地（070",
+                  "id": 118,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "公共管理与公共服务用地（08）",
+              "id": 119,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 120,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "机关团体新闻出版",
+                  "id": 121,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "科教文卫用地（0",
+                  "id": 122,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "公用设施用地（0",
+                  "id": 123,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "公园与绿地（081",
+                  "id": 124,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "特殊用地（09）",
+              "id": 125,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "交通运输用地（10）",
+              "id": 126,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 127,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "铁路用地（1001）",
+                  "id": 128,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "轨道交通用地（1",
+                  "id": 129,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "公路用地（1003）",
+                  "id": 130,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "城镇村道路用地",
+                  "id": 131,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "交通服务场站用地",
+                  "id": 132,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "农村道路（1006）",
+                  "id": 133,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "机场用地（1007）",
+                  "id": 134,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "港口码头用地（1",
+                  "id": 135,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "管道运输用地（1",
+                  "id": 136,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "水域及水利设施用地（11）",
+              "id": 137,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 138,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "河流水面（1101）",
+                  "id": 139,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "湖泊水面（1102）",
+                  "id": 140,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "水库水面（1103）",
+                  "id": 141,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "坑塘水面（1104）",
+                  "id": 142,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沿海滩涂（1105）",
+                  "id": 143,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "内陆滩涂（1106）",
+                  "id": 144,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沟渠（1107）",
+                  "id": 145,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沼泽地（1108）",
+                  "id": 146,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "水工建筑用地（1",
+                  "id": 147,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "冰川及永久积雪",
+                  "id": 148,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "其他土地（12）",
+              "id": 149,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 150,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "空闲地（1201）",
+                  "id": 151,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "设施农用地（120",
+                  "id": 152,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "田坎（1203）",
+                  "id": 153,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "盐碱地（1204）",
+                  "id": 154,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沙地（1205）",
+                  "id": 155,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "裸土地（1206）",
+                  "id": 156,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "裸岩石砾地（120",
+                  "id": 157,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "建制镇（202）",
+          "id": 158,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "合计",
+              "id": 159,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "耕地（01）",
+              "id": 160,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 161,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "水田（0101）",
+                  "id": 162,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "水浇地（0102）",
+                  "id": 163,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "旱地（0103）",
+                  "id": 164,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "园地（02）",
+              "id": 165,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 166,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "果园（0201）",
+                  "id": 167,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "茶园（0202）",
+                  "id": 168,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "橡胶园（0203）",
+                  "id": 169,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "其他园地（0204）",
+                  "id": 170,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "林地（03)",
+              "id": 171,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 172,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "乔木林地（0301）",
+                  "id": 173,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "竹林地（0302）",
+                  "id": 174,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "红树林地（0303）",
+                  "id": 175,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "森林沼泽（0304）",
+                  "id": 176,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "灌木林地（0305）",
+                  "id": 177,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "灌丛沼泽（0306）",
+                  "id": 178,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "其他林地（0307）",
+                  "id": 179,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "草地（04）",
+              "id": 180,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 181,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "天然牧草地（040",
+                  "id": 182,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沼泽草地（0402）",
+                  "id": 183,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "人工牧草地（040",
+                  "id": 184,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "其他草地（0404）",
+                  "id": 185,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "商服用地（05）",
+              "id": 186,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "工矿仓储用地（06）",
+              "id": 187,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 188,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "工业仓储用地（0",
+                  "id": 189,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "采矿用地（0602）",
+                  "id": 190,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "盐田（0603）",
+                  "id": 191,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "住宅用地（07）",
+              "id": 192,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 193,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "城镇住宅用地（0",
+                  "id": 194,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "农村宅基地（070",
+                  "id": 195,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "公共管理与公共服务用地（08）",
+              "id": 196,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 197,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "机关团体新闻出版",
+                  "id": 198,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "科教文卫用地（0",
+                  "id": 199,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "公用设施用地（0",
+                  "id": 200,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "公园与绿地（081",
+                  "id": 201,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "特殊用地（09）",
+              "id": 202,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "交通运输用地（10）",
+              "id": 203,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 204,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "铁路用地（1001）",
+                  "id": 205,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "轨道交通用地（1",
+                  "id": 206,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "公路用地（1003）",
+                  "id": 207,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "城镇村道路用地",
+                  "id": 208,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "交通服务场站用地",
+                  "id": 209,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "农村道路（1006）",
+                  "id": 210,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "机场用地（1007）",
+                  "id": 211,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "港口码头用地（1",
+                  "id": 212,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "管道运输用地（1",
+                  "id": 213,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "水域及水利设施用地（11）",
+              "id": 214,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 215,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "河流水面（1101）",
+                  "id": 216,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "湖泊水面（1102）",
+                  "id": 217,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "水库水面（1103）",
+                  "id": 218,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "坑塘水面（1104）",
+                  "id": 219,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沿海滩涂（1105）",
+                  "id": 220,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "内陆滩涂（1106）",
+                  "id": 221,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沟渠（1107）",
+                  "id": 222,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沼泽地（1108）",
+                  "id": 223,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "水工建筑用地（1",
+                  "id": 224,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "冰川及永久积雪",
+                  "id": 225,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "其他土地（12）",
+              "id": 226,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 227,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "空闲地（1201）",
+                  "id": 228,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "设施农用地（120",
+                  "id": 229,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "田坎（1203）",
+                  "id": 230,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "盐碱地（1204）",
+                  "id": 231,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沙地（1205）",
+                  "id": 232,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "裸土地（1206）",
+                  "id": 233,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "裸岩石砾地（120",
+                  "id": 234,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "村庄（203）",
+          "id": 235,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "合计",
+              "id": 236,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "耕地（01）",
+              "id": 237,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 238,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "水田（0101）",
+                  "id": 239,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "水浇地（0102）",
+                  "id": 240,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "旱地（0103）",
+                  "id": 241,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "园地（02）",
+              "id": 242,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 243,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "果园（0201）",
+                  "id": 244,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "茶园（0202）",
+                  "id": 245,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "橡胶园（0203）",
+                  "id": 246,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "其他园地（0204）",
+                  "id": 247,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "林地（03)",
+              "id": 248,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 249,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "乔木林地（0301）",
+                  "id": 250,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "竹林地（0302）",
+                  "id": 251,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "红树林地（0303）",
+                  "id": 252,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "森林沼泽（0304）",
+                  "id": 253,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "灌木林地（0305）",
+                  "id": 254,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "灌丛沼泽（0306）",
+                  "id": 255,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "其他林地（0307）",
+                  "id": 256,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "草地（04）",
+              "id": 257,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 258,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "天然牧草地（040",
+                  "id": 259,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沼泽草地（0402）",
+                  "id": 260,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "人工牧草地（040",
+                  "id": 261,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "其他草地（0404）",
+                  "id": 262,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "商服用地（05）",
+              "id": 263,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "工矿仓储用地（06）",
+              "id": 264,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 265,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "工业仓储用地（0",
+                  "id": 266,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "采矿用地（0602）",
+                  "id": 267,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "盐田（0603）",
+                  "id": 268,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "住宅用地（07）",
+              "id": 269,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 270,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "城镇住宅用地（0",
+                  "id": 271,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "农村宅基地（070",
+                  "id": 272,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "公共管理与公共服务用地（08）",
+              "id": 273,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 274,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "机关团体新闻出版",
+                  "id": 275,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "科教文卫用地（0",
+                  "id": 276,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "公用设施用地（0",
+                  "id": 277,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "公园与绿地（081",
+                  "id": 278,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "特殊用地（09）",
+              "id": 279,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "交通运输用地（10）",
+              "id": 280,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 281,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "铁路用地（1001）",
+                  "id": 282,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "轨道交通用地（1",
+                  "id": 283,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "公路用地（1003）",
+                  "id": 284,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "城镇村道路用地",
+                  "id": 285,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "交通服务场站用地",
+                  "id": 286,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "农村道路（1006）",
+                  "id": 287,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "机场用地（1007）",
+                  "id": 288,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "港口码头用地（1",
+                  "id": 289,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "管道运输用地（1",
+                  "id": 290,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "水域及水利设施用地（11）",
+              "id": 291,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 292,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "河流水面（1101）",
+                  "id": 293,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "湖泊水面（1102）",
+                  "id": 294,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "水库水面（1103）",
+                  "id": 295,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "坑塘水面（1104）",
+                  "id": 296,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沿海滩涂（1105）",
+                  "id": 297,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "内陆滩涂（1106）",
+                  "id": 298,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沟渠（1107）",
+                  "id": 299,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沼泽地（1108）",
+                  "id": 300,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "水工建筑用地（1",
+                  "id": 301,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "冰川及永久积雪",
+                  "id": 302,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "其他土地（12）",
+              "id": 303,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 304,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "空闲地（1201）",
+                  "id": 305,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "设施农用地（120",
+                  "id": 306,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "田坎（1203）",
+                  "id": 307,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "盐碱地（1204）",
+                  "id": 308,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "沙地（1205）",
+                  "id": 309,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "裸土地（1206）",
+                  "id": 310,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "裸岩石砾地（1",
+                  "id": 311,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "盐田及采矿用地（204）",
+          "id": 312,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "小计",
+              "id": 313,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "其中",
+              "id": 314,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "采矿用地（0602",
+                  "id": 315,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "盐田（0603）",
+                  "id": 316,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                },
+                {
+                  "label": "空闲地（1201",
+                  "id": 317,
+                  "prop": "",
+                  "subHeaders": [
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "风景名胜及特殊用地",
+          "id": 318,
+          "prop": "",
+          "subHeaders": [
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "耕地坡度分级面积汇总表",
+      "value": "GDPDMJHZ",
+      "headers": [
+        {
+          "label": "行政区域",
+          "id": "1",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "名称",
+              "id": "2",
+              "prop": "xzqmc",
+              "subHeaders": []
+            },
+            {
+              "label": "代码",
+              "id": "3",
+              "prop": "xzqdm",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "耕地面积",
+          "id": "4",
+          "prop": "gdmj",
+          "subHeaders": []
+        },
+        {
+          "label": "平地",
+          "id": "5",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "≤2°",
+              "id": "6",
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "面积",
+                  "id": "7",
+                  "prop": "pdmj",
+                  "subHeaders": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "梯田及坡地面积",
+          "id": "8",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "2°～ 6°",
+              "id": "9",
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "合计",
+                  "id": "8",
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "梯田",
+                  "id": "8",
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "坡地",
+                  "id": "8",
+                  "prop": "",
+                  "subHeaders": []
+                }
+              ]
+            },
+            {
+              "label": "15°～ 25°",
+              "id": "9",
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "合计",
+                  "id": "8",
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "梯田",
+                  "id": "8",
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "坡地",
+                  "id": "8",
+                  "prop": "",
+                  "subHeaders": []
+                }
+              ]
+            },
+            {
+              "label": ">25°",
+              "id": "9",
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "合计",
+                  "id": "8",
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "梯田",
+                  "id": "8",
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "坡地",
+                  "id": "8",
+                  "prop": "",
+                  "subHeaders": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "耕地细化调查情况统计表",
+      "value": "GDXHDCHZ",
+      "headers": [
+        {
+          "label": "行政区域",
+          "id": "1",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "名称",
+              "id": "2",
+              "prop": "xzqmc",
+              "subHeaders": []
+            },
+            {
+              "label": "代码",
+              "id": "3",
+              "prop": "xzqdm",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "合计",
+          "id": "4",
+          "prop": "hj",
+          "subHeaders": []
+        },
+        {
+          "label": "河道耕地（HDGD）",
+          "id": "5",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "耕地",
+              "id": "6",
+              "prop": "bM01",
+              "subHeaders": []
+            },
+            {
+              "label": "水田",
+              "id": "7",
+              "prop": "bM0101"
+            },
+            {
+              "label": "水浇地",
+              "id": "8",
+              "prop": "bM0102",
+              "subHeaders": []
+            },
+            {
+              "label": "旱地",
+              "id": "7",
+              "prop": "bM0103"
+            }
+          ]
+        },
+        {
+          "label": "湖区耕地（HQGD）",
+          "id": "5",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "耕地",
+              "id": "6",
+              "prop": "bM01",
+              "subHeaders": []
+            },
+            {
+              "label": "水田",
+              "id": "7",
+              "prop": "bM0101"
+            },
+            {
+              "label": "水浇地",
+              "id": "8",
+              "prop": "bM0102",
+              "subHeaders": []
+            },
+            {
+              "label": "旱地",
+              "id": "7",
+              "prop": "bM0103"
+            }
+          ]
+        },
+        {
+          "label": "林区耕地（LQGD）",
+          "id": "5",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "耕地",
+              "id": "6",
+              "prop": "bM01",
+              "subHeaders": []
+            },
+            {
+              "label": "水田",
+              "id": "7",
+              "prop": "bM0101"
+            },
+            {
+              "label": "水浇地",
+              "id": "8",
+              "prop": "bM0102",
+              "subHeaders": []
+            },
+            {
+              "label": "旱地",
+              "id": "7",
+              "prop": "bM0103"
+            }
+          ]
+        },
+        {
+          "label": "牧区耕地（MQGD）",
+          "id": "5",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "耕地",
+              "id": "6",
+              "prop": "bM01",
+              "subHeaders": []
+            },
+            {
+              "label": "水田",
+              "id": "7",
+              "prop": "bM0101"
+            },
+            {
+              "label": "水浇地",
+              "id": "8",
+              "prop": "bM0102",
+              "subHeaders": []
+            },
+            {
+              "label": "旱地",
+              "id": "7",
+              "prop": "bM0103"
+            }
+          ]
+        },
+        {
+          "label": "沙荒耕地（MQGD）",
+          "id": "5",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "耕地",
+              "id": "6",
+              "prop": "bM01",
+              "subHeaders": []
+            },
+            {
+              "label": "水田",
+              "id": "7",
+              "prop": "bM0101"
+            },
+            {
+              "label": "水浇地",
+              "id": "8",
+              "prop": "bM0102",
+              "subHeaders": []
+            },
+            {
+              "label": "旱地",
+              "id": "7",
+              "prop": "bM0103"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "耕地种植类型面积统计表",
+      "value": "GDZZHZ",
+      "headers": [
+        {
+          "label": "行政区域",
+          "id": 1,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "名称",
+              "id": 2,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "代码",
+              "id": 3,
+              "prop": "",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "耕地（01）",
+          "id": 4,
+          "prop": "",
+          "subHeaders": []
+        },
+        {
+          "label": "其中",
+          "id": 5,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "耕种（GZ）",
+              "id": 6,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "未耕种（WG）",
+              "id": 7,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "休耕（XG）",
+              "id": 8,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "园木（YM）",
+              "id": 9,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "林木（LM）",
+              "id": 10,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "绿化草地（LH）",
+              "id": 11,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "牧草（MC）",
+              "id": 12,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "坑塘（KT）",
+              "id": 13,
+              "prop": "",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "水田（0101）",
+          "id": 14,
+          "prop": "",
+          "subHeaders": []
+        },
+        {
+          "label": "其中",
+          "id": 15,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "耕种（GZ）",
+              "id": 16,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "未耕种（WG）",
+              "id": 17,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "休耕（XG）",
+              "id": 18,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "园木（YM）",
+              "id": 19,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "林木（LM）",
+              "id": 20,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "绿化草地（LH）",
+              "id": 21,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "牧草（MC）",
+              "id": 22,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "坑塘（KT）",
+              "id": 23,
+              "prop": "",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "水浇地（0102）",
+          "id": 24,
+          "prop": "",
+          "subHeaders": []
+        },
+        {
+          "label": "其中",
+          "id": 25,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "耕种（GZ）",
+              "id": 26,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "未耕种（WG）",
+              "id": 27,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "休耕（XG）",
+              "id": 28,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "园木（YM）",
+              "id": 29,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "林木（LM）",
+              "id": 30,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "绿化草地（LH）",
+              "id": 31,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "牧草（MC）",
+              "id": 32,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "坑塘（KT）",
+              "id": 33,
+              "prop": "",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "旱地（0103）",
+          "id": 34,
+          "prop": "",
+          "subHeaders": []
+        },
+        {
+          "label": "其中",
+          "id": 35,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "耕种（GZ）",
+              "id": 36,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "未耕种（WG）",
+              "id": 37,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "休耕（XG）",
+              "id": 38,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "园木（YM）",
+              "id": 39,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "林木（LM）",
+              "id": 40,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "绿化草地（LH）",
+              "id": 41,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "牧草（MC）",
+              "id": 42,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "坑塘（KT）",
+              "id": 43,
+              "prop": "",
+              "subHeaders": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "工业仓储用地按类型汇总统计表",
+      "value": "GYCCLXHZ",
+      "header": [
+        {
+          "label": "行政区域",
+          "id": 1,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "名称",
+              "id": 2,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "代码",
+              "id": 3,
+              "prop": "",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "合计",
+          "id": 4,
+          "prop": "",
+          "subHeaders": []
+        },
+        {
+          "label": "工业仓储用地（06H1）",
+          "id": 5,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "火电工业用地",
+              "id": 6,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "钢铁工业用地",
+              "id": 7,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "煤矿工业用地",
+              "id": 8,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "水泥工业用地",
+              "id": 9,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "玻璃工业用地",
+              "id": 10,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "电解铝工业用地",
+              "id": 11,
+              "prop": "",
+              "subHeaders": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "灌丛草地、稀疏草地汇总情况统计表",
+      "value": "GCXSCDHZ",
+      "headers": [
+        {
+          "label": "行政区域",
+          "id": 1,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "名称",
+              "id": 2,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "代码",
+              "id": 3,
+              "prop": "",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "灌丛草地(GCCD)",
+          "id": 4,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "合计",
+              "id": 5,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "天然牧草地（0401）",
+              "id": 6,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "沼泽草地（0402）",
+              "id": 7,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "人工牧草地（0403）",
+              "id": 8,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "其他草地（0404）",
+              "id": 9,
+              "prop": "",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "稀疏草地(XSCD)",
+          "id": 10,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "合计",
+              "id": 11,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "天然牧草地（0401）",
+              "id": 12,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "沼泽草地（0402）",
+              "id": 13,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "人工牧草地（0403）",
+              "id": 14,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "其他草地（0404）",
+              "id": 15,
+              "prop": "",
+              "subHeaders": [
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "基本农田外可调整地类面积汇总表",
+      "value": "JBNTKTZHZ",
+      "headers": [
+        {
+          "label": "行政区域",
+          "id": 1,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "名称",
+              "id": 2,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "代码",
+              "id": 3,
+              "prop": "",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "可调整地类合计",
+          "id": 4,
+          "prop": "",
+          "subHeaders": []
+        },
+        {
+          "label": "其中",
+          "id": 5,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "可调整果园（0201）",
+              "id": 6,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "可调整茶园（0202）",
+              "id": 7,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "可调整橡胶园",
+              "id": 8,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "可调整其他园地",
+              "id": 9,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "可调整乔木林地",
+              "id": 10,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "可调整竹林地（03）",
+              "id": 11,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "可调整其他林地",
+              "id": 12,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "可调整人工牧草地",
+              "id": 13,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "可调整养殖水面",
+              "id": 14,
+              "prop": "",
+              "subHeaders": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "林区范围内园地汇总统计表",
+      "value": "LQFWYDHZ",
+      "headers": [
+        {
+          "label": "行政区域",
+          "id": 1,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "名称",
+              "id": 2,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "代码",
+              "id": 3,
+              "prop": "",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "合计",
+          "id": 4,
+          "prop": "",
+          "subHeaders": []
+        },
+        {
+          "label": "林区园地（LQYD）",
+          "id": 5,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "果园（0201）",
+              "id": 6,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "茶园（0202）",
+              "id": 7,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "橡胶园（0203）",
+              "id": 8,
+              "prop": "",
+              "subHeaders": []
+            },
+            {
+              "label": "其他园地（0204）",
+              "id": 9,
+              "prop": "",
+              "subHeaders": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "土地利用现状分类面积汇总表",
+      "value": "TDLY_EJFL",
+      "headers": [
+        {
+          "label": "行政区域",
+          "id": "1",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "名称",
+              "id": "2",
+              "prop": "xzqmc",
+              "subHeaders": []
+            },
+            {
+              "label": "代码",
+              "id": "3",
+              "prop": "xzqdm",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "土地调查总面积",
+          "id": "4",
+          "prop": "xzqzmj",
+          "subHeaders": []
+        },
+        {
+          "label": "耕地",
+          "id": "5",
+          "prop": "bM01",
+          "subHeaders": []
+        },
+        {
+          "label": "其中",
+          "id": "6",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "水田",
+              "id": "7",
+              "prop": "bM0101",
+              "subHeaders": []
+            },
+            {
+              "label": "水浇地",
+              "id": "8",
+              "prop": "bM0102",
+              "subHeaders": []
+            },
+            {
+              "label": "旱地",
+              "id": "9",
+              "prop": "bM0103",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "园地",
+          "id": "10",
+          "prop": "bM02",
+          "subHeaders": []
+        },
+        {
+          "label": "其中",
+          "id": "11",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "果园",
+              "id": "12",
+              "prop": "bM0201",
+              "subHeaders": []
+            },
+            {
+              "label": "茶园",
+              "id": "13",
+              "prop": "bM0202",
+              "subHeaders": []
+            },
+            {
+              "label": "橡胶园",
+              "id": "14",
+              "prop": "bM0203",
+              "subHeaders": []
+            },
+            {
+              "label": "其他园地",
+              "id": "15",
+              "prop": "bM0204",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "林地",
+          "id": "16",
+          "prop": "bM03",
+          "subHeaders": []
+        },
+        {
+          "label": "其中",
+          "id": "17",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "乔木林地",
+              "id": "18",
+              "prop": "bM0301",
+              "subHeaders": []
+            },
+            {
+              "label": "竹林地",
+              "id": "19",
+              "prop": "bM0302",
+              "subHeaders": []
+            },
+            {
+              "label": "红树林地",
+              "id": "20",
+              "prop": "bM0303",
+              "subHeaders": []
+            },
+            {
+              "label": "森林沼泽",
+              "id": "21",
+              "prop": "bM0304",
+              "subHeaders": []
+            },
+            {
+              "label": "灌木林地",
+              "id": "22",
+              "prop": "bM0305",
+              "subHeaders": []
+            },
+            {
+              "label": "灌丛沼泽",
+              "id": "100",
+              "prop": "bM0306",
+              "subHeaders": []
+            },
+            {
+              "label": "其他林地",
+              "id": "23",
+              "prop": "bM0307",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "草地",
+          "id": "24",
+          "prop": "bM04",
+          "subHeaders": []
+        },
+        {
+          "label": "其中",
+          "id": "25",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "天然牧草地",
+              "id": "26",
+              "prop": "bM0401",
+              "subHeaders": []
+            },
+            {
+              "label": "沼泽草地",
+              "id": "27",
+              "prop": "bM0402",
+              "subHeaders": []
+            },
+            {
+              "label": "人工牧草地",
+              "id": "28",
+              "prop": "bM0403",
+              "subHeaders": []
+            },
+            {
+              "label": "其他草地",
+              "id": "29",
+              "prop": "bM0404",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "商服用地",
+          "id": "30",
+          "prop": "bM05",
+          "subHeaders": []
+        },
+        {
+          "label": "工矿仓储用地",
+          "id": "31",
+          "prop": "bM06",
+          "subHeaders": []
+        },
+        {
+          "label": "其中",
+          "id": "32",
+          "prop": "",
+          "subHeader": [
+            {
+              "label": "工业仓储用地",
+              "id": "33",
+              "prop": "bM06H1",
+              "subHeaders": []
+            },
+            {
+              "label": "采矿用地",
+              "id": "31",
+              "prop": "bM0602",
+              "subHeaders": []
+            },
+            {
+              "label": "盐田",
+              "id": "34",
+              "prop": "bM0603",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "住宅用地",
+          "id": "35",
+          "prop": "bM07",
+          "subHeaders": []
+        },
+        {
+          "label": "其中",
+          "id": "36",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "城镇住宅用地",
+              "id": "37",
+              "prop": "bM0701",
+              "subHeaders": []
+            },
+            {
+              "label": "农村宅基地",
+              "id": "38",
+              "prop": "bM0702",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "公共管理与公共服务用地",
+          "id": "39",
+          "prop": "bM08",
+          "subHeaders": []
+        },
+        {
+          "label": "其中",
+          "id": "40",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "机关团体新闻出版用地",
+              "id": "41",
+              "prop": "bM08H1",
+              "subHeaders": []
+            },
+            {
+              "label": "科教文卫用地",
+              "id": "42",
+              "prop": "bM08H2",
+              "subHeaders": []
+            },
+            {
+              "label": "公用设施用地",
+              "id": "43",
+              "prop": "bM0809",
+              "subHeaders": []
+            },
+            {
+              "label": "公园与绿地",
+              "id": "44",
+              "prop": "bM0810",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "特殊用地",
+          "id": "45",
+          "prop": "bM09",
+          "subHeaders": []
+        },
+        {
+          "label": "交通运输用地",
+          "id": "46",
+          "prop": "bM10",
+          "subHeaders": []
+        },
+        {
+          "label": "其中",
+          "id": "47",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "铁路用地",
+              "id": "48",
+              "prop": "bM1001",
+              "subHeaders": []
+            },
+            {
+              "label": "轨道交通用地",
+              "id": "49",
+              "prop": "bM1002",
+              "subHeaders": []
+            },
+            {
+              "label": "公路用地",
+              "id": "50",
+              "prop": "bM1003",
+              "subHeaders": []
+            },
+            {
+              "label": "城镇村道路用地",
+              "id": "51",
+              "prop": "bM1004",
+              "subHeaders": []
+            },
+            {
+              "label": "交通服务场站用地",
+              "id": "52",
+              "prop": "bM1005",
+              "subHeaders": []
+            },
+            {
+              "label": "农村道路",
+              "id": "53",
+              "prop": "bM1006",
+              "subHeaders": []
+            },
+            {
+              "label": "机场用地",
+              "id": "54",
+              "prop": "bM1007",
+              "subHeaders": []
+            },
+            {
+              "label": "港口码头用地",
+              "id": "55",
+              "prop": "bM1008",
+              "subHeaders": []
+            },
+            {
+              "label": "管道运输用地",
+              "id": "56",
+              "prop": "bM1009",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "水域及水利设施用地",
+          "id": "57",
+          "prop": "bM11",
+          "subHeaders": []
+        },
+        {
+          "label": "其中",
+          "id": "58",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "河流水面",
+              "id": "59",
+              "prop": "bM1101",
+              "subHeaders": []
+            },
+            {
+              "label": "湖泊水面",
+              "id": "60",
+              "prop": "bM1102",
+              "subHeaders": []
+            },
+            {
+              "label": "水库水面",
+              "id": "61",
+              "prop": "bM1103",
+              "subHeaders": []
+            },
+            {
+              "label": "坑塘水面",
+              "id": "62",
+              "prop": "bM1104",
+              "subHeaders": []
+            },
+            {
+              "label": "沿海滩涂",
+              "id": "63",
+              "prop": "bM1105",
+              "subHeaders": []
+            },
+            {
+              "label": "内陆滩涂",
+              "id": "64",
+              "prop": "bM1106",
+              "subHeaders": []
+            },
+            {
+              "label": "沟渠",
+              "id": "65",
+              "prop": "bM1107",
+              "subHeaders": []
+            },
+            {
+              "label": "沼泽地",
+              "id": "66",
+              "prop": "bM1108",
+              "subHeaders": []
+            },
+            {
+              "label": "水工建筑用地",
+              "id": "67",
+              "prop": "bM1109",
+              "subHeaders": []
+            },
+            {
+              "label": "冰川及永久积雪",
+              "id": "68",
+              "prop": "bM1110",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "其他土地",
+          "id": "69",
+          "prop": "bM12",
+          "subHeaders": []
+        },
+        {
+          "label": "其中",
+          "id": "70",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "空闲地",
+              "id": "71",
+              "prop": "bM1201",
+              "subHeaders": []
+            },
+            {
+              "label": "设施农用地",
+              "id": "72",
+              "prop": "bM1202",
+              "subHeaders": []
+            },
+            {
+              "label": "田坎",
+              "id": "73",
+              "prop": "bM1203",
+              "subHeaders": []
+            },
+            {
+              "label": "盐碱地",
+              "id": "74",
+              "prop": "bM1204",
+              "subHeaders": []
+            },
+            {
+              "label": "沙地",
+              "id": "75",
+              "prop": "bM1205",
+              "subHeaders": []
+            },
+            {
+              "label": "裸土地",
+              "id": "76",
+              "prop": "bM1206",
+              "subHeaders": []
+            },
+            {
+              "label": "裸岩石砾地",
+              "id": "77",
+              "prop": "bM1207",
+              "subHeaders": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "土地利用现状一级分类面积按权属性质汇总表",
+      "value": "TDLY_YJFL_QS",
+      "headers": [
+        {
+          "label": "行政区域",
+          "id": 1,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "名称",
+              "id": 2,
+              "prop": "",
+              "subHeaders": [
+              ]
+            },
+            {
+              "label": "代码",
+              "id": 3,
+              "prop": "",
+              "subHeaders": [
+              ]
+            }
+          ]
+        },
+        {
+          "label": "合计",
+          "id": 4,
+          "prop": "",
+          "subHeaders": []
+        },
+        {
+          "label": "国家所有(G)",
+          "id": 5,
+          "prop": "",
+          "subHeaders": []
+        },
+        {
+          "label": "集体所有(J)",
+          "id": 6,
+          "prop": "",
+          "subHeaders": []
+        },
+        {
+          "label": "其中",
+          "id": 7,
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "耕地（01）",
+              "id": 8,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "小计",
+                  "id": 9,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "国家所有(G)",
+                  "id": 10,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "集体所有(J)",
+                  "id": 11,
+                  "prop": "",
+                  "subHeaders": []
+                }
+              ]
+            },
+            {
+              "label": "园地(02)",
+              "id": 12,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "小计",
+                  "id": 13,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "国家所有(G)",
+                  "id": 14,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "集体所有(J)",
+                  "id": 15,
+                  "prop": "",
+                  "subHeaders": []
+                }
+              ]
+            },
+            {
+              "label": "林地（03）",
+              "id": 16,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "小计",
+                  "id": 17,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "国家所有(G)",
+                  "id": 18,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "集体所有(J)",
+                  "id": 19,
+                  "prop": "",
+                  "subHeaders": []
+                }
+              ]
+            },
+            {
+              "label": "草地（04）",
+              "id": 20,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "小计",
+                  "id": 21,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "国家所有(G)",
+                  "id": 22,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "集体所有(J)",
+                  "id": 23,
+                  "prop": "",
+                  "subHeaders": []
+                }
+              ]
+            },
+            {
+              "label": "商服用地（05）",
+              "id": 24,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "小计",
+                  "id": 25,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "国家所有(G)",
+                  "id": 26,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "集体所有(J)",
+                  "id": 27,
+                  "prop": "",
+                  "subHeaders": []
+                }
+              ]
+            },
+            {
+              "label": "工矿仓储用地（06）",
+              "id": 28,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "小计",
+                  "id": 29,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "国家所有(G)",
+                  "id": 30,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "集体所有(J)",
+                  "id": 31,
+                  "prop": "",
+                  "subHeaders": []
+                }
+              ]
+            },
+            {
+              "label": "住宅用地（07）",
+              "id": 32,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "小计",
+                  "id": 33,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "国家所有(G)",
+                  "id": 34,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "集体所有(J)",
+                  "id": 35,
+                  "prop": "",
+                  "subHeaders": []
+                }
+              ]
+            },
+            {
+              "label": "公共管理与公共服务用地（08）",
+              "id": 36,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "小计",
+                  "id": 37,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "国家所有(G)",
+                  "id": 38,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "集体所有(J)",
+                  "id": 39,
+                  "prop": "",
+                  "subHeaders": []
+                }
+              ]
+            },
+            {
+              "label": "特殊用地（09）",
+              "id": 40,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "小计",
+                  "id": 41,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "国家所有(G)",
+                  "id": 42,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "集体所有(J)",
+                  "id": 43,
+                  "prop": "",
+                  "subHeaders": []
+                }
+              ]
+            },
+            {
+              "label": "交通运输用地（10）",
+              "id": 44,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "小计",
+                  "id": 45,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "国家所有(G)",
+                  "id": 46,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "集体所有(J)",
+                  "id": 47,
+                  "prop": "",
+                  "subHeaders": []
+                }
+              ]
+            },
+            {
+              "label": "水域及水利设施用地（11）",
+              "id": 48,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "小计",
+                  "id": 49,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "国家所有(G)",
+                  "id": 50,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "集体所有(J)",
+                  "id": 51,
+                  "prop": "",
+                  "subHeaders": []
+                }
+              ]
+            },
+            {
+              "label": "其他土地（12）",
+              "id": 52,
+              "prop": "",
+              "subHeaders": [
+                {
+                  "label": "小计",
+                  "id": 53,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "国家所有(G)",
+                  "id": 54,
+                  "prop": "",
+                  "subHeaders": []
+                },
+                {
+                  "label": "集体所有(J)",
+                  "id": 55,
+                  "prop": "",
+                  "subHeaders": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableName": "土地利用现状一级分类面积汇总表",
+      "value": "TDLY_YJFL",
+      "headers": [
+        {
+          "label": "行政区域",
+          "id": "1",
+          "prop": "",
+          "subHeaders": [
+            {
+              "label": "名称",
+              "id": "2",
+              "prop": "xzqmc",
+              "subHeaders": []
+            },
+            {
+              "label": "代码",
+              "id": "3",
+              "prop": "xzqdm",
+              "subHeaders": []
+            }
+          ]
+        },
+        {
+          "label": "土地调查总面积",
+          "id": "4",
+          "prop": "xzqzmj",
+          "subHeaders": []
+        },
+        {
+          "label": "耕地",
+          "id": "5",
+          "prop": "bM01",
+          "subHeaders": []
+        },
+        {
+          "label": "园地",
+          "id": "6",
+          "prop": "bM02",
+          "subHeaders": []
+        },
+        {
+          "label": "林地",
+          "id": "7",
+          "prop": "bM03",
+          "subHeaders": []
+        },
+        {
+          "label": "草地",
+          "id": "8",
+          "prop": "bM04",
+          "subHeaders": []
+        },
+        {
+          "label": "商服用地",
+          "id": "9",
+          "prop": "bM05",
+          "subHeaders": []
+        },
+        {
+          "label": "工矿仓储用地",
+          "id": "10",
+          "prop": "bM06",
+          "subHeaders": []
+        },
+        {
+          "label": "住宅用地",
+          "id": "11",
+          "prop": "bM07",
+          "subHeaders": []
+        },
+        {
+          "label": "公共管理与公共服务用地",
+          "id": "12",
+          "prop": "bM08",
+          "subHeaders": []
+        },
+        {
+          "label": "特殊用地",
+          "id": "13",
+          "prop": "bM09",
+          "subHeaders": []
+        },
+        {
+          "label": "交通运输用地",
+          "id": "14",
+          "prop": "bM10",
+          "subHeaders": []
+        },
+        {
+          "label": "水域及水利设施用地",
+          "id": "15",
+          "prop": "bM11",
+          "subHeaders": []
+        },
+        {
+          "label": "其他土地",
+          "id": "16",
+          "prop": "bM12",
+          "subHeaders": []
+        }
+      ]
+    }
+  ]
+}

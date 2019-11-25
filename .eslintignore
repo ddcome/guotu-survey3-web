@@ -1,0 +1,9 @@
+!*-ui
+dist
+forms
+libs
+dll
+*/theme/js/angular-file-upload.js
+src/pages/guotu-survey3-web/gis/*
+src/pages/guotu-survey3-web/config/*
+src/pages/guotu-survey3-web/test/*

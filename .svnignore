@@ -1,0 +1,25 @@
+# svn 忽略文件配置
+# 在当前目录下执行即可：
+# svn propedit svn:ignore .svnignore
+
+.DS_Store
+node_modules
+dist
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+#.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

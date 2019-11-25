@@ -1,0 +1,425 @@
+{
+  "data": {
+    "query": "owner:arcgis orgid:0123456789ABCDEF (type:(\"Map Service\") -typekeywords:(\"Tiled\" OR \"Hosted\") -type:(\"Web Map\" OR \"Web Mapping Application\" OR \"Shapefile\"))  ownerfolder:root -type:(\"Code Attachment\" OR \"Featured Items\") -typekeywords:(\"MapAreaPackage\") -type:(\"Map Area\")",
+    "total": 13,
+    "start": 1,
+    "num": 6,
+    "nextStart": 7,
+    "results": [
+      {
+        "id": "20bbf4d7bc9046ba9531159e142fe194",
+        "owner": "arcgis",
+        "created": 1561020055635,
+        "modified": 1561020066461,
+        "guid": null,
+        "name": null,
+        "title": "service14",
+        "type": "Map Service",
+        "typeKeywords": [
+          "ArcGIS Server",
+          "Data",
+          "Map Service",
+          "Service",
+          "Metadata"
+        ],
+        "description": "Population Density by County",
+        "tags": [
+          "county",
+          "counties",
+          "population",
+          "density",
+          "census"
+        ],
+        "snippet": "Population Density by County",
+        "thumbnail": "thumbnail/thumbnail.JPEG",
+        "documentation": null,
+        "extent": [
+          [
+            116,
+            39
+          ],
+          [
+            116,
+            39
+          ]
+        ],
+        "categories": [],
+        "spatialReference": "CGCS2000_3_Degree_GK_Zone_39",
+        "accessInformation": null,
+        "licenseInfo": null,
+        "culture": "zh-cn",
+        "properties": null,
+        "url": "https://server.tyht.com/server/rest/services/service14/MapServer",
+        "proxyFilter": null,
+        "access": "private",
+        "size": -1,
+        "appCategories": [],
+        "industries": [],
+        "languages": [],
+        "largeThumbnail": null,
+        "banner": null,
+        "screenshots": [],
+        "listed": false,
+        "numComments": 0,
+        "numRatings": 0,
+        "avgRating": 0,
+        "numViews": 0,
+        "scoreCompleteness": 45,
+        "groupDesignations": null,
+        "imgUrl": "http://server.tyht.com/portal/sharing/rest/content/items/20bbf4d7bc9046ba9531159e142fe194/info/thumbnail/thumbnail.JPEG?token=eSBGx5wqKX7M0qaX9x5dqvRZIgPQLk6AFRlqYLnkQvJjWmVAYRWqkrrS55T8q12HdXr6B8ChiX1yUkT6iw4BeGr-uAAv4sXq8npii-HwNpaLFIDUpcBGPoNgcLRDhGCDxnje1hEf7hRZ86wt-prJrQ.."
+      },
+      {
+        "id": "5c9a9cf56ba945b09deb752bc869eaef",
+        "owner": "arcgis",
+        "created": 1561019763683,
+        "modified": 1561019774493,
+        "guid": null,
+        "name": null,
+        "title": "service1233",
+        "type": "Map Service",
+        "typeKeywords": [
+          "ArcGIS Server",
+          "Data",
+          "Map Service",
+          "Service",
+          "Metadata"
+        ],
+        "description": "Population Density by County",
+        "tags": [
+          "county",
+          "counties",
+          "population",
+          "density",
+          "census"
+        ],
+        "snippet": "Population Density by County",
+        "thumbnail": "thumbnail/thumbnail.JPEG",
+        "documentation": null,
+        "extent": [
+          [
+            116,
+            39
+          ],
+          [
+            116,
+            39
+          ]
+        ],
+        "categories": [],
+        "spatialReference": "CGCS2000_3_Degree_GK_Zone_39",
+        "accessInformation": null,
+        "licenseInfo": null,
+        "culture": "zh-cn",
+        "properties": null,
+        "url": "https://server.tyht.com/server/rest/services/service1233/MapServer",
+        "proxyFilter": null,
+        "access": "private",
+        "size": -1,
+        "appCategories": [],
+        "industries": [],
+        "languages": [],
+        "largeThumbnail": null,
+        "banner": null,
+        "screenshots": [],
+        "listed": false,
+        "numComments": 0,
+        "numRatings": 0,
+        "avgRating": 0,
+        "numViews": 0,
+        "scoreCompleteness": 45,
+        "groupDesignations": null,
+        "imgUrl": "http://server.tyht.com/portal/sharing/rest/content/items/5c9a9cf56ba945b09deb752bc869eaef/info/thumbnail/thumbnail.JPEG?token=eSBGx5wqKX7M0qaX9x5dqvRZIgPQLk6AFRlqYLnkQvJjWmVAYRWqkrrS55T8q12HdXr6B8ChiX1yUkT6iw4BeGr-uAAv4sXq8npii-HwNpaLFIDUpcBGPoNgcLRDhGCDxnje1hEf7hRZ86wt-prJrQ.."
+      },
+      {
+        "id": "df96512ca4b1418f94bb163dd5d5e0fb",
+        "owner": "arcgis",
+        "created": 1561019669052,
+        "modified": 1561019679878,
+        "guid": null,
+        "name": null,
+        "title": "service123",
+        "type": "Map Service",
+        "typeKeywords": [
+          "ArcGIS Server",
+          "Data",
+          "Map Service",
+          "Service",
+          "Metadata"
+        ],
+        "description": "Population Density by County",
+        "tags": [
+          "county",
+          "counties",
+          "population",
+          "density",
+          "census"
+        ],
+        "snippet": "Population Density by County",
+        "thumbnail": "thumbnail/thumbnail.JPEG",
+        "documentation": null,
+        "extent": [
+          [
+            116,
+            38
+          ],
+          [
+            116,
+            39
+          ]
+        ],
+        "categories": [],
+        "spatialReference": "CGCS2000_3_Degree_GK_Zone_39",
+        "accessInformation": null,
+        "licenseInfo": null,
+        "culture": "zh-cn",
+        "properties": null,
+        "url": "https://server.tyht.com/server/rest/services/service123/MapServer",
+        "proxyFilter": null,
+        "access": "private",
+        "size": -1,
+        "appCategories": [],
+        "industries": [],
+        "languages": [],
+        "largeThumbnail": null,
+        "banner": null,
+        "screenshots": [],
+        "listed": false,
+        "numComments": 0,
+        "numRatings": 0,
+        "avgRating": 0,
+        "numViews": 0,
+        "scoreCompleteness": 45,
+        "groupDesignations": null,
+        "imgUrl": "http://server.tyht.com/portal/sharing/rest/content/items/df96512ca4b1418f94bb163dd5d5e0fb/info/thumbnail/thumbnail.JPEG?token=eSBGx5wqKX7M0qaX9x5dqvRZIgPQLk6AFRlqYLnkQvJjWmVAYRWqkrrS55T8q12HdXr6B8ChiX1yUkT6iw4BeGr-uAAv4sXq8npii-HwNpaLFIDUpcBGPoNgcLRDhGCDxnje1hEf7hRZ86wt-prJrQ.."
+      },
+      {
+        "id": "0d631fa43ef540a18092b3ffccd9fa2b",
+        "owner": "arcgis",
+        "created": 1561019581710,
+        "modified": 1561019592394,
+        "guid": null,
+        "name": null,
+        "title": "service12",
+        "type": "Map Service",
+        "typeKeywords": [
+          "ArcGIS Server",
+          "Data",
+          "Map Service",
+          "Service",
+          "Metadata"
+        ],
+        "description": "Population Density by County",
+        "tags": [
+          "county",
+          "counties",
+          "population",
+          "density",
+          "census"
+        ],
+        "snippet": "Population Density by County",
+        "thumbnail": "thumbnail/thumbnail.JPEG",
+        "documentation": null,
+        "extent": [
+          [
+            116,
+            38
+          ],
+          [
+            116,
+            39
+          ]
+        ],
+        "categories": [],
+        "spatialReference": "CGCS2000_3_Degree_GK_Zone_39",
+        "accessInformation": null,
+        "licenseInfo": null,
+        "culture": "zh-cn",
+        "properties": null,
+        "url": "https://server.tyht.com/server/rest/services/service12/MapServer",
+        "proxyFilter": null,
+        "access": "private",
+        "size": -1,
+        "appCategories": [],
+        "industries": [],
+        "languages": [],
+        "largeThumbnail": null,
+        "banner": null,
+        "screenshots": [],
+        "listed": false,
+        "numComments": 0,
+        "numRatings": 0,
+        "avgRating": 0,
+        "numViews": 0,
+        "scoreCompleteness": 45,
+        "groupDesignations": null,
+        "imgUrl": "http://server.tyht.com/portal/sharing/rest/content/items/0d631fa43ef540a18092b3ffccd9fa2b/info/thumbnail/thumbnail.JPEG?token=eSBGx5wqKX7M0qaX9x5dqvRZIgPQLk6AFRlqYLnkQvJjWmVAYRWqkrrS55T8q12HdXr6B8ChiX1yUkT6iw4BeGr-uAAv4sXq8npii-HwNpaLFIDUpcBGPoNgcLRDhGCDxnje1hEf7hRZ86wt-prJrQ.."
+      },
+      {
+        "id": "93915f7755c049a38816801561ee9075",
+        "owner": "arcgis",
+        "created": 1561019515238,
+        "modified": 1561019526221,
+        "guid": null,
+        "name": null,
+        "title": "service121",
+        "type": "Map Service",
+        "typeKeywords": [
+          "ArcGIS Server",
+          "Data",
+          "Map Service",
+          "Service",
+          "Metadata"
+        ],
+        "description": "Population Density by County",
+        "tags": [
+          "county",
+          "counties",
+          "population",
+          "density",
+          "census"
+        ],
+        "snippet": "Population Density by County",
+        "thumbnail": "thumbnail/thumbnail.JPEG",
+        "documentation": null,
+        "extent": [
+          [
+            116,
+            38
+          ],
+          [
+            116,
+            39
+          ]
+        ],
+        "categories": [],
+        "spatialReference": "CGCS2000_3_Degree_GK_Zone_39",
+        "accessInformation": null,
+        "licenseInfo": null,
+        "culture": "zh-cn",
+        "properties": null,
+        "url": "https://server.tyht.com/server/rest/services/service121/MapServer",
+        "proxyFilter": null,
+        "access": "private",
+        "size": -1,
+        "appCategories": [],
+        "industries": [],
+        "languages": [],
+        "largeThumbnail": null,
+        "banner": null,
+        "screenshots": [],
+        "listed": false,
+        "numComments": 0,
+        "numRatings": 0,
+        "avgRating": 0,
+        "numViews": 0,
+        "scoreCompleteness": 45,
+        "groupDesignations": null,
+        "imgUrl": "http://server.tyht.com/portal/sharing/rest/content/items/93915f7755c049a38816801561ee9075/info/thumbnail/thumbnail.JPEG?token=eSBGx5wqKX7M0qaX9x5dqvRZIgPQLk6AFRlqYLnkQvJjWmVAYRWqkrrS55T8q12HdXr6B8ChiX1yUkT6iw4BeGr-uAAv4sXq8npii-HwNpaLFIDUpcBGPoNgcLRDhGCDxnje1hEf7hRZ86wt-prJrQ.."
+      },
+      {
+        "id": "f523aff994a64702acd2485108045883",
+        "owner": "arcgis",
+        "created": 1560853761436,
+        "modified": 1560853772218,
+        "guid": null,
+        "name": null,
+        "title": "service1",
+        "type": "Map Service",
+        "typeKeywords": [
+          "ArcGIS Server",
+          "Data",
+          "Map Service",
+          "Service",
+          "Metadata"
+        ],
+        "description": "Population Density by County",
+        "tags": [
+          "county",
+          "counties",
+          "population",
+          "density",
+          "census"
+        ],
+        "snippet": "Population Density by County",
+        "thumbnail": "thumbnail/thumbnail.JPEG",
+        "documentation": null,
+        "extent": [
+          [
+            116,
+            38
+          ],
+          [
+            116,
+            39
+          ]
+        ],
+        "categories": [],
+        "spatialReference": "CGCS2000_3_Degree_GK_Zone_39",
+        "accessInformation": null,
+        "licenseInfo": null,
+        "culture": "zh-cn",
+        "properties": null,
+        "url": "https://server.tyht.com/server/rest/services/service1/MapServer",
+        "proxyFilter": null,
+        "access": "private",
+        "size": -1,
+        "appCategories": [],
+        "industries": [],
+        "languages": [],
+        "largeThumbnail": null,
+        "banner": null,
+        "screenshots": [],
+        "listed": false,
+        "numComments": 0,
+        "numRatings": 0,
+        "avgRating": 0,
+        "numViews": 0,
+        "scoreCompleteness": 45,
+        "groupDesignations": null,
+        "imgUrl": "http://server.tyht.com/portal/sharing/rest/content/items/f523aff994a64702acd2485108045883/info/thumbnail/thumbnail.JPEG?token=eSBGx5wqKX7M0qaX9x5dqvRZIgPQLk6AFRlqYLnkQvJjWmVAYRWqkrrS55T8q12HdXr6B8ChiX1yUkT6iw4BeGr-uAAv4sXq8npii-HwNpaLFIDUpcBGPoNgcLRDhGCDxnje1hEf7hRZ86wt-prJrQ.."
+      }
+    ]
+  },
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "pragma": "no-cache",
+    "date": "Fri, 21 Jun 2019 07:47:56 GMT",
+    "content-encoding": "gzip",
+    "server": "Microsoft-IIS/10.0",
+    "x-aspnet-version": "4.0.30319",
+    "x-powered-by": "ASP.NET",
+    "vary": "Origin, Accept-Encoding",
+    "content-type": "application/json;charset=utf-8",
+    "cache-control": "no-cache",
+    "connection": "close",
+    "content-length": "1022",
+    "expires": "-1"
+  },
+  "config": {
+    "transformRequest": {},
+    "transformResponse": {},
+    "timeout": 15000,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "Content-Type": "application/json;charset=UTF-8",
+      "token": "eSBGx5wqKX7M0qaX9x5dqvRZIgPQLk6AFRlqYLnkQvJjWmVAYRWqkrrS55T8q12HdXr6B8ChiX1yUkT6iw4BeGr-uAAv4sXq8npii-HwNpaLFIDUpcBGPoNgcLRDhGCDxnje1hEf7hRZ86wt-prJrQ.."
+    },
+    "method": "get",
+    "url": "/portal/sharing/rest/search?timestamp=1561103276221",
+    "params": {
+      "num": 6,
+      "start": 1,
+      "sortField": "modified",
+      "sortOrder": "desc",
+      "q": "owner:arcgis orgid:0123456789ABCDEF (type:(\"Map Service\") -typekeywords:(\"Tiled\" OR \"Hosted\") -type:(\"Web Map\" OR \"Web Mapping Application\" OR \"Shapefile\"))  ownerfolder:root -type:(\"Code Attachment\" OR \"Featured Items\") -typekeywords:(\"MapAreaPackage\") -type:(\"Map Area\")",
+      "f": "json",
+      "token": "eSBGx5wqKX7M0qaX9x5dqvRZIgPQLk6AFRlqYLnkQvJjWmVAYRWqkrrS55T8q12HdXr6B8ChiX1yUkT6iw4BeGr-uAAv4sXq8npii-HwNpaLFIDUpcBGPoNgcLRDhGCDxnje1hEf7hRZ86wt-prJrQ.."
+    },
+    "data": ""
+  },
+  "request": {}
+}

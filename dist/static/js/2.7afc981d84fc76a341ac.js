@@ -1,0 +1,2 @@
+webpackJsonp([2],{"5Cvr":function(e,t){},K0uU:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("h1",[this._v("我的收藏")])},staticRenderFns:[]};var a=n("VU/8")({name:"index"},r,!1,function(e){n("5Cvr")},"data-v-01eddfae",null);t.default=a.exports}});
+//# sourceMappingURL=2.7afc981d84fc76a341ac.js.map

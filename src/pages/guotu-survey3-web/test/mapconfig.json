@@ -1,0 +1,242 @@
+{
+  "success": true,
+  "msg": null,
+  "data": {
+    "mapConfig": {
+      "extent": [92.338762743, 32.596257899, 108.711747286, 42.794587832],
+      "epsg": "4490",
+      "zoom": 0,
+      "resolutions": [
+        0.01903568804664224,
+        0.00951784402332112,
+        0.00475892201166056,
+        0.00237946100583028,
+        0.00118973050291514,
+        5.9486525145757E-4,
+        2.97432625728785E-4,
+        1.5228550437313792E-4,
+        7.614275218656896E-5,
+        3.807137609328448E-5,
+        1.903568804664224E-5,
+        9.51784402332112E-6,
+        4.75892201166056E-6,
+        2.37946100583028E-6,
+        1.18973050291514E-6,
+        5.9486525145757E-7,
+        2.97432625728785E-7
+      ],
+      "year":2018
+    },
+    "groupLayers": [
+      {
+        "id": "2",
+        "name": "620000_TDQS_2018",
+        "caption": "基础数据",
+        "regioncode": "620000",
+        "year": [2018, 2019],
+        "subjectSn": "JC",
+        "url": "http://192.168.5.222:6080/arcgis/rest/services/620000_TDQS_2018/MapServer",
+        "wmsUrl": "http://192.168.5.222:6080/arcgis/services/620000_TDQS_2018/MapServer/WmsServer",
+        "extent":[92.338762743, 32.596257899, 108.711747286, 42.794587832],
+        "bView":true,
+        "viewzoom": [0, 16],
+        "wmts": [0, 9],
+        "wms": [10, 16],
+        "vector": [-1, -1],
+        "epsg": "4490",
+        "database": "test",
+        "stdSubject": {
+          "name": "基础数据",
+          "sn": "JC"
+        },
+        "type": {
+          "key": "GM_JCC",
+          "name": "基础层"
+        },
+        "layers": [
+          {
+            "id": "22",
+            "name": "D620000ES2016IXZQ",
+            "sn": "SJXZQ",
+            "tableName": "D620000ES2016IXZQ",
+            "scale": "A",
+            "caption": "省级行政区",
+            "serverId": 0,
+            "url": "http://192.168.5.222:6080/arcgis/rest/services/620000_TDQS_2018/MapServer/12",
+            "group":"",
+            "label": "OBJECTID",
+            "isCheck": true,
+            "permission":"1=1",
+            "query": {
+              "queryField": [
+                "XZQDM"
+              ],
+              "viewField": [
+                "XZQDM","XZQMC"
+              ]
+            },
+            "stdLayer": {
+              "name": "省级行政区",
+              "shortName": "SJXZQ"
+            },
+            "fields": {
+              "XZQMC": {
+                "name": "行政区名称"
+              },
+              "XZQDM": {
+                "name": "行政区代码"
+              }
+            }
+          },
+          {
+            "id": "21",
+            "name": "D620000ES2016IXJXZQ",
+            "sn": "XJXZQ",
+            "tableName": "D620000ES2016IXJXZQ",
+            "scale": "A",
+            "caption": "县级行政区",
+            "serverId": 1,
+            "url": "http://192.168.5.222:6080/arcgis/rest/services/620000_TDQS_2018/MapServer/11",
+            "group":"",
+            "label": "OBJECTID",
+            "isCheck": true,
+            "permission":"1=1",
+            "query": {
+              "queryField": [
+                "XZQDM"
+              ],
+              "viewField": [
+                "XZQDM","XZQMC"
+              ]
+            },
+            "stdLayer": {
+              "name": "县级行政区",
+              "shortName": "XJXZQ"
+            },
+            "fields": {
+              "XZQMC": {
+                "name": "行政区名称"
+              },
+              "XZQDM": {
+                "name": "行政区代码"
+              }
+            }
+          }
+        ]
+      },
+	  {
+        "id": "1",
+        "name": "620000_SDZY_2018",
+        "caption": "湿地专题",
+        "regioncode": "620000",
+        "year": [2017, 2018],
+        "subjectSn": "US",
+        "url": "http://192.168.5.35:6080/arcgis/rest/services/620000_SDZY_2018/MapServer",
+        "wmsUrl": "http://192.168.5.35:6080/arcgis/services/620000_SDZY_2018/MapServer/WMSServer",
+        "extent":[98.415,39.592,98.946,40.057],
+        "bView":true,
+        "viewzoom": [0, 6],
+        "wmts": [0, 3],
+        "wms": [4, 6],
+        "vector": [-1, -1],
+        "epsg": "4490",
+        "database": {
+          "server": "192.168.5.35",
+          "instance": "port:1521",
+          "database": "orcl",
+          "userName": "sde",
+          "password": "sde",
+          "dbType": "ORACLE"
+        },
+        "stdSubject": {
+          "name": "湿地专题",
+          "sn": "SDZT"
+        },
+        "type": {
+          "key": "GM_ZYC",
+          "name": "专业层"
+        },
+        "layers": [
+          {
+            "id": "12",
+            "name": "D620000NR2018GSDZY",
+            "sn": "SDZY",
+            "tableName": "D620000NR2018GSDZY",
+            "scale": "G",
+            "caption": "湿地登记单元",
+            "serverId": 0,
+            "url": "http://192.168.5.35:6080/arcgis/rest/services/620000_SDZY_2018/MapServer/1",
+            "group":"",
+            "label": "OBJECTID",
+            "isCheck": true,
+            "permission":"1=1",
+            "query": {
+              "queryField": [
+                "ZRZYDJDYH","ZRZYMC","ZL"
+              ],
+              "viewField": [
+                "ZRZYDJDYH","ZRZYMC","ZL","ZMJ"
+              ]
+            },
+            "stdLayer": {
+              "name": "湿地登记单元",
+              "shortName": "SDZY"
+            },
+            "fields": {
+              "ZRZYDJDYH": {
+                "name": "登记单元号"
+              },
+              "ZRZYMC": {
+                "name": "名称"
+              },
+              "ZL": {
+                "name": "坐落"
+              },
+              "ZMJ": {
+                "name": "总面积（公顷）"
+              }
+            }
+          },
+          {
+            "id": "11",
+            "name": "D620000NR2018GSDZY_LB",
+            "sn": "SDZY_LB",
+            "tableName": "D620000NR2018GSDZY_LB",
+            "scale": "G",
+            "caption": "湿地资源类别",
+            "serverId": 1,
+            "url": "http://192.168.5.35:6080/arcgis/rest/services/620000_SDZY_2018/MapServer/0",
+            "group":"",
+            "label": "OBJECTID",
+            "isCheck": true,
+            "permission":"1=1",
+            "query": {
+              "queryField": [
+                "ZRZYDJDYH","LBMC"
+              ],
+              "viewField": [
+                "ZRZYDJDYH","LBMC","MJ"
+              ]
+            },
+            "stdLayer": {
+              "name": "湿地资源类别",
+              "shortName": "SDZY_LB"
+            },
+            "fields": {
+              "ZRZYDJDYH": {
+                "name": "登记单元号"
+              },
+              "LBMC": {
+                "name": "类别名称"
+              },
+              "MJ": {
+                "name": "面积（公顷）"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "tokenInvalid": false
+}

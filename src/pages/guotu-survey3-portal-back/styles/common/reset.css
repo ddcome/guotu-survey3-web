@@ -1,0 +1,13 @@
+@charset "utf-8";html{background-color:#fff;color:#000;font-size:12px}
+html, body {margin: 0;padding: 0;}
+/*附加样式*/
+html, body {
+  height: 100%;
+}
+h1,h2,h3,h4,h5,h6{margin: 0 ; padding: 0;}
+hr {height: 0.1rem;margin: .1rem 0;border: medium none;border-top: .02rem solid #cacaca;}
+a{text-decoration:none}
+a,button{cursor:pointer;}
+a,a:hover,a:link,a:focus{text-decoration:none;}
+a:focus,a:active{outline: none;}
+a {color: #25a4bb;text-decoration: none;}

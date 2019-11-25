@@ -1,0 +1,94 @@
+[
+  {
+    "tableCnName": "土地利用一级分类 ",
+    "tableEnName": "TDLY_YJFL"
+  },
+  {
+    "tableCnName": "土地利用二级分类",
+    "tableEnName": "TDLY_EJFL"
+  },
+  {
+    "tableCnName": "土地利用现状一级分类面积按权属性质汇总表",
+    "tableEnName": "TDLY_YJFL_QS"
+  },
+  {
+    "tableCnName": "耕地种植类型面积统计表 ",
+    "tableEnName": "GDZZHZ"
+  },
+  {
+    "tableCnName": "部分细化地类面积汇总表",
+    "tableEnName": "BFXHHZ"
+  },
+  {
+    "tableCnName": "工业用地按类型汇总统计表 ",
+    "tableEnName": "GYCCLXHZ"
+  },
+  {
+    "tableCnName": "城镇村及工矿用地面积汇总表",
+    "tableEnName": "CZCGKYDHZ"
+  },
+  {
+    "tableCnName": "灌丛草地汇总情况统计表",
+    "tableEnName": "GCXSCDHZ"
+  },
+  {
+    "tableCnName": "耕地坡度分级面积汇总表 ",
+    "tableEnName": "GDPDMJHZ"
+  },
+  {
+    "tableCnName": "耕地细化调查情况统计表 ",
+    "tableEnName": "GDXHDCHZ"
+  },
+  {
+    "tableCnName": "可调整地类面积汇总表",
+    "tableEnName": "JBNTKTZHZ"
+  },
+  {
+    "tableCnName": "林区范围内种植园用地汇总统计表",
+    "tableEnName": "LQFWYDHZ"
+  },
+  {
+    "tableCnName": "批准未建设的建设用地现状情况统计表",
+    "tableEnName": "PEWYJSYDXZHZ"
+  },
+  {
+    "tableCnName": "批准未建设的建设用地用途情况统计表",
+    "tableEnName": "PEWYJSYDYTHZ"
+  },
+  {
+    "tableCnName": "永久基本农田现状情况统计表",
+    "tableEnName": "YJJBNTXZ"
+  },
+  {
+    "tableCnName": "飞入地城镇村及工矿用地面积汇总表",
+    "tableEnName": "FRDTDLY_CZCGKYDHZ"
+  },
+  {
+    "tableCnName": "飞入地土地利用现状分类面积汇总表",
+    "tableEnName": "FRDTDLY_TDLY_EJFL"
+  },
+  {
+    "tableCnName": "飞入地土地利用现状一级分类面积按权属性质汇总表",
+    "tableEnName": "FRDTDLY_TDLY_YJFL_QS"
+  },
+  {
+    "tableCnName": "飞入地土地利用现状一级分类面积汇总表",
+    "tableEnName": "FRDTDLY_TDLY_YJFL"
+  },
+  {
+    "tableCnName": "废弃与垃圾填埋细化标注汇总统计表",
+    "tableEnName": "FQYLJTM"
+  },
+  {
+    "tableCnName": "即可恢复与工程恢复种植属性汇总统计表",
+    "tableEnName": "JKHFGCHFHZ"
+  },
+  {
+    "tableCnName": "海岛土地利用现状一级分类面积汇总表",
+    "tableEnName": "HD_TDLY_EJFL"
+  },
+  {
+    "tableCnName": "海岛土地利用现状分类面积汇总表",
+    "tableEnName": "HD_TDLY_YJFL"
+  }
+]
