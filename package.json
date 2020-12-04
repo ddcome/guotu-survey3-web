@@ -19,7 +19,7 @@
     "echarts": "^4.2.1",
     "element-ui": "^2.10.1",
     "es6-promise": "^4.2.6",
-    "highlight.js": "^9.15.8",
+    "highlight.js": "^10.4.1",
     "jquery": "^3.4.1",
     "jsts": "^1.6.0",
     "mapshaper": "^0.4.87",
